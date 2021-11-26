@@ -1,0 +1,5 @@
+Count: 1
+Data:
+1. Rectangle: color=green, top-left=(4, 5), bottom-right=(6, 7)
+Sorted:
+1. Rectangle: color=green, top-left=(4, 5), bottom-right=(6, 7)

@@ -1,0 +1,41 @@
+Count: 19
+Data:
+1. Triangle: color=red, points=(748533630, 776550279) - (289134331, 807385195) - (556889022, 95168426)
+2. Circle: color=green, center=(809912668, 686611921), radius=1777811291
+3. Circle: color=yellow, center=(1698004709, 2051427207), radius=1532780646
+4. Circle: color=green, center=(778205365, 822530699), radius=168547991
+5. Triangle: color=red, points=(469573116, 2080335148) - (1702214255, 7523372) - (381141485, 1831173648)
+6. Rectangle: color=blue, top-left=(432223631, 329491017), bottom-right=(1106361689, 1239608826)
+7. Circle: color=green, center=(980969180, 92596215), radius=2011442784
+8. Circle: color=light blue, center=(776864452, 565130834), radius=1420928568
+9. Triangle: color=red, points=(29439913, 341377289) - (728633198, 851970613) - (509925281, 1102432174)
+10. Triangle: color=red, points=(1035283674, 150074451) - (987021769, 1416425159) - (1981248099, 539962507)
+11. Rectangle: color=orange, top-left=(869453524, 1192530559), bottom-right=(1505596909, 1755833563)
+12. Rectangle: color=yellow, top-left=(1848429779, 110536163), bottom-right=(2006663542, 1571353638)
+13. Circle: color=blue, center=(844798558, 1568208626), radius=374738560
+14. Triangle: color=red, points=(1103371758, 1726209084) - (272027549, 58320284) - (174069280, 1251525946)
+15. Triangle: color=red, points=(91064068, 362545469) - (157908182, 631026575) - (448714339, 423896265)
+16. Circle: color=green, center=(1929493174, 1108830014), radius=1887821925
+17. Circle: color=purple, center=(1998358088, 2127755509), radius=233646135
+18. Circle: color=light blue, center=(1078444693, 159000033), radius=779321149
+19. Rectangle: color=purple, top-left=(1882692908, 1531408601), bottom-right=(193129850, 1941013192)
+Sorted:
+1. Triangle: color=red, points=(748533630, 776550279) - (289134331, 807385195) - (556889022, 95168426)
+2. Triangle: color=red, points=(29439913, 341377289) - (728633198, 851970613) - (509925281, 1102432174)
+3. Triangle: color=red, points=(1103371758, 1726209084) - (272027549, 58320284) - (174069280, 1251525946)
+4. Triangle: color=red, points=(91064068, 362545469) - (157908182, 631026575) - (448714339, 423896265)
+5. Rectangle: color=orange, top-left=(869453524, 1192530559), bottom-right=(1505596909, 1755833563)
+6. Rectangle: color=blue, top-left=(432223631, 329491017), bottom-right=(1106361689, 1239608826)
+7. Rectangle: color=yellow, top-left=(1848429779, 110536163), bottom-right=(2006663542, 1571353638)
+8. Triangle: color=red, points=(1035283674, 150074451) - (987021769, 1416425159) - (1981248099, 539962507)
+9. Triangle: color=red, points=(469573116, 2080335148) - (1702214255, 7523372) - (381141485, 1831173648)
+10. Circle: color=green, center=(778205365, 822530699), radius=168547991
+11. Circle: color=purple, center=(1998358088, 2127755509), radius=233646135
+12. Rectangle: color=purple, top-left=(1882692908, 1531408601), bottom-right=(193129850, 1941013192)
+13. Circle: color=blue, center=(844798558, 1568208626), radius=374738560
+14. Circle: color=light blue, center=(1078444693, 159000033), radius=779321149
+15. Circle: color=light blue, center=(776864452, 565130834), radius=1420928568
+16. Circle: color=yellow, center=(1698004709, 2051427207), radius=1532780646
+17. Circle: color=green, center=(809912668, 686611921), radius=1777811291
+18. Circle: color=green, center=(1929493174, 1108830014), radius=1887821925
+19. Circle: color=green, center=(980969180, 92596215), radius=2011442784

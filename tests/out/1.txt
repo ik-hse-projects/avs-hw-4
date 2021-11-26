@@ -1,0 +1,9 @@
+Count: 3
+Data:
+1. Triangle: color=red, points=(0, 100) - (100, 0) - (0, 0)
+2. Circle: color=light blue, center=(3, 4), radius=5
+3. Rectangle: color=blue, top-left=(10, 20), bottom-right=(30, 40)
+Sorted:
+1. Circle: color=light blue, center=(3, 4), radius=5
+2. Rectangle: color=blue, top-left=(10, 20), bottom-right=(30, 40)
+3. Triangle: color=red, points=(0, 100) - (100, 0) - (0, 0)

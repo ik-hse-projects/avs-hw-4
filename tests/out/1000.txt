@@ -1,0 +1,2003 @@
+Count: 1000
+Data:
+1. Triangle: color=red, points=(2526, 422) - (7995, 9526) - (6231, 8)
+2. Rectangle: color=blue, top-left=(973, 7316), bottom-right=(5389, 853)
+3. Triangle: color=red, points=(2257, 4345) - (8025, 4007) - (1759, 6007)
+4. Triangle: color=red, points=(603, 2665) - (1881, 459) - (4669, 9572)
+5. Rectangle: color=red, top-left=(6681, 1734), bottom-right=(9332, 3543)
+6. Circle: color=yellow, center=(8374, 5784), radius=3787
+7. Circle: color=green, center=(4274, 7003), radius=8220
+8. Circle: color=red, center=(1627, 9519), radius=5810
+9. Triangle: color=red, points=(741, 7813) - (5362, 5896) - (9909, 5134)
+10. Rectangle: color=red, top-left=(5761, 3607), bottom-right=(2037, 5121)
+11. Triangle: color=red, points=(846, 2624) - (6316, 9843) - (7671, 8715)
+12. Triangle: color=red, points=(8162, 2357) - (3894, 4982) - (1684, 8292)
+13. Rectangle: color=green, top-left=(9632, 4386), bottom-right=(2380, 3796)
+14. Triangle: color=red, points=(9360, 602) - (7692, 9425) - (3118, 4033)
+15. Rectangle: color=green, top-left=(8190, 251), bottom-right=(3180, 6535)
+16. Triangle: color=red, points=(5963, 1791) - (9947, 9956) - (1332, 8129)
+17. Circle: color=light blue, center=(1544, 8225), radius=6332
+18. Circle: color=purple, center=(6430, 3867), radius=2996
+19. Rectangle: color=red, top-left=(4117, 1965), bottom-right=(4532, 1725)
+20. Rectangle: color=light blue, top-left=(8162, 6836), bottom-right=(7551, 4655)
+21. Triangle: color=red, points=(5480, 1831) - (2050, 6662) - (1671, 3264)
+22. Triangle: color=red, points=(5387, 3924) - (764, 3199) - (8565, 7071)
+23. Triangle: color=red, points=(1139, 3772) - (3445, 5283) - (8947, 9205)
+24. Circle: color=purple, center=(4793, 985), radius=649
+25. Circle: color=blue, center=(8916, 2199), radius=9678
+26. Circle: color=purple, center=(1766, 44), radius=360
+27. Circle: color=yellow, center=(8760, 4229), radius=6498
+28. Circle: color=green, center=(6724, 1593), radius=5577
+29. Triangle: color=red, points=(9444, 1583) - (4394, 6216) - (7896, 1694)
+30. Rectangle: color=light blue, top-left=(3832, 5163), bottom-right=(1719, 561)
+31. Triangle: color=red, points=(9007, 2417) - (3506, 8994) - (4365, 5953)
+32. Rectangle: color=red, top-left=(6382, 134), bottom-right=(2088, 5546)
+33. Circle: color=purple, center=(5681, 7187), radius=2708
+34. Rectangle: color=light blue, top-left=(7723, 9447), bottom-right=(9363, 7455)
+35. Circle: color=orange, center=(8967, 7435), radius=7638
+36. Circle: color=purple, center=(2284, 6560), radius=1536
+37. Triangle: color=red, points=(3824, 7521) - (8834, 6939) - (1996, 9524)
+38. Rectangle: color=orange, top-left=(3349, 1043), bottom-right=(5362, 5711)
+39. Rectangle: color=light blue, top-left=(3627, 7387), bottom-right=(6289, 4990)
+40. Circle: color=green, center=(2384, 5212), radius=4964
+41. Triangle: color=red, points=(4772, 8572) - (3687, 7149) - (5246, 482)
+42. Circle: color=blue, center=(2973, 5779), radius=601
+43. Rectangle: color=purple, top-left=(4364, 7710), bottom-right=(9203, 9385)
+44. Circle: color=orange, center=(4650, 5667), radius=9528
+45. Rectangle: color=red, top-left=(271, 6334), bottom-right=(3895, 2080)
+46. Circle: color=orange, center=(3447, 4060), radius=8988
+47. Rectangle: color=purple, top-left=(7139, 8696), bottom-right=(4542, 7571)
+48. Triangle: color=red, points=(910, 9123) - (4747, 3846) - (1325, 677)
+49. Rectangle: color=yellow, top-left=(8271, 9631), bottom-right=(3665, 1085)
+50. Triangle: color=red, points=(4953, 165) - (8965, 5527) - (2061, 505)
+51. Circle: color=green, center=(8537, 4167), radius=3091
+52. Rectangle: color=light blue, top-left=(5576, 2323), bottom-right=(7705, 2192)
+53. Rectangle: color=purple, top-left=(1880, 9142), bottom-right=(8795, 7054)
+54. Circle: color=blue, center=(7934, 9052), radius=1172
+55. Triangle: color=red, points=(1272, 6953) - (7843, 3761) - (9425, 5807)
+56. Circle: color=green, center=(67, 734), radius=2961
+57. Rectangle: color=green, top-left=(422, 3084), bottom-right=(3054, 8161)
+58. Triangle: color=red, points=(1867, 5207) - (4305, 7890) - (3502, 4020)
+59. Triangle: color=red, points=(9038, 89) - (8836, 896) - (2885, 9245)
+60. Circle: color=blue, center=(1025, 8496), radius=5021
+61. Circle: color=blue, center=(489, 4493), radius=7055
+62. Circle: color=light blue, center=(8502, 4762), radius=7926
+63. Rectangle: color=orange, top-left=(3239, 1179), bottom-right=(8524, 623)
+64. Circle: color=yellow, center=(2156, 3296), radius=655
+65. Triangle: color=red, points=(6541, 2692) - (8266, 1016) - (5797, 178)
+66. Circle: color=light blue, center=(7116, 3808), radius=5106
+67. Triangle: color=red, points=(8709, 145) - (1450, 35) - (3704, 9152)
+68. Triangle: color=red, points=(2016, 4609) - (6683, 8420) - (7487, 8493)
+69. Rectangle: color=yellow, top-left=(6763, 7874), bottom-right=(9518, 4658)
+70. Rectangle: color=light blue, top-left=(2704, 5550), bottom-right=(7978, 9188)
+71. Triangle: color=red, points=(3973, 8768) - (1670, 9722) - (2513, 9754)
+72. Rectangle: color=green, top-left=(4330, 2185), bottom-right=(5481, 4557)
+73. Rectangle: color=yellow, top-left=(6409, 8033), bottom-right=(1768, 7191)
+74. Circle: color=red, center=(39, 5138), radius=5751
+75. Rectangle: color=red, top-left=(2837, 4285), bottom-right=(731, 710)
+76. Triangle: color=red, points=(4273, 805) - (4626, 6976) - (8033, 5361)
+77. Rectangle: color=blue, top-left=(2805, 5874), bottom-right=(6918, 956)
+78. Triangle: color=red, points=(7658, 1236) - (2874, 2539) - (6605, 4102)
+79. Triangle: color=red, points=(772, 2140) - (3003, 7304) - (1558, 9153)
+80. Triangle: color=red, points=(6709, 5855) - (2333, 9434) - (3779, 7372)
+81. Triangle: color=red, points=(9615, 7323) - (3314, 2319) - (5407, 7268)
+82. Rectangle: color=yellow, top-left=(380, 6112), bottom-right=(9261, 9719)
+83. Rectangle: color=orange, top-left=(7754, 5794), bottom-right=(2268, 3815)
+84. Triangle: color=red, points=(6601, 478) - (6503, 1053) - (9859, 2624)
+85. Circle: color=orange, center=(5214, 2325), radius=7943
+86. Triangle: color=red, points=(1876, 1322) - (5241, 8944) - (1933, 7180)
+87. Rectangle: color=purple, top-left=(4827, 6092), bottom-right=(2227, 4589)
+88. Rectangle: color=yellow, top-left=(6001, 9840), bottom-right=(3749, 8763)
+89. Rectangle: color=orange, top-left=(8222, 8587), bottom-right=(5100, 2771)
+90. Rectangle: color=light blue, top-left=(922, 3088), bottom-right=(9628, 8340)
+91. Triangle: color=red, points=(2671, 1338) - (7287, 4607) - (9604, 5073)
+92. Circle: color=orange, center=(1033, 8663), radius=2433
+93. Rectangle: color=yellow, top-left=(7091, 760), bottom-right=(3275, 5205)
+94. Rectangle: color=red, top-left=(7149, 9815), bottom-right=(7463, 9480)
+95. Circle: color=orange, center=(80, 3968), radius=3305
+96. Rectangle: color=green, top-left=(4782, 1362), bottom-right=(7697, 9800)
+97. Rectangle: color=orange, top-left=(8715, 4885), bottom-right=(4464, 4370)
+98. Circle: color=orange, center=(8715, 1176), radius=4773
+99. Rectangle: color=orange, top-left=(8998, 8351), bottom-right=(3102, 4565)
+100. Circle: color=light blue, center=(4109, 984), radius=3271
+101. Triangle: color=red, points=(1069, 3927) - (9983, 2363) - (1163, 4427)
+102. Triangle: color=red, points=(5422, 236) - (4842, 8782) - (5038, 5675)
+103. Rectangle: color=purple, top-left=(3914, 5204), bottom-right=(3804, 9440)
+104. Circle: color=orange, center=(9848, 9958), radius=2751
+105. Triangle: color=red, points=(9898, 2117) - (9466, 1697) - (4885, 4768)
+106. Rectangle: color=green, top-left=(3087, 9687), bottom-right=(8193, 7618)
+107. Rectangle: color=light blue, top-left=(2033, 9257), bottom-right=(8993, 5784)
+108. Circle: color=green, center=(8824, 2022), radius=7746
+109. Circle: color=orange, center=(1299, 1275), radius=9015
+110. Triangle: color=red, points=(8705, 2594) - (6454, 4217) - (7384, 7965)
+111. Triangle: color=red, points=(6909, 4503) - (4353, 5097) - (3106, 9147)
+112. Triangle: color=red, points=(2890, 4862) - (2043, 3853) - (9046, 464)
+113. Rectangle: color=blue, top-left=(3336, 2855), bottom-right=(3776, 5664)
+114. Rectangle: color=green, top-left=(2053, 9315), bottom-right=(3376, 6729)
+115. Triangle: color=red, points=(4768, 6049) - (886, 2269) - (2323, 4825)
+116. Rectangle: color=purple, top-left=(6703, 9566), bottom-right=(8792, 1591)
+117. Triangle: color=red, points=(7017, 3722) - (5236, 4157) - (864, 4799)
+118. Rectangle: color=purple, top-left=(2292, 9881), bottom-right=(9236, 3998)
+119. Rectangle: color=green, top-left=(8721, 9062), bottom-right=(9243, 775)
+120. Circle: color=light blue, center=(688, 3503), radius=4689
+121. Triangle: color=red, points=(4179, 675) - (290, 2933) - (2259, 5914)
+122. Rectangle: color=light blue, top-left=(2811, 7063), bottom-right=(2164, 2499)
+123. Circle: color=red, center=(114, 7504), radius=2127
+124. Triangle: color=red, points=(2740, 6495) - (7512, 7994) - (5542, 8506)
+125. Triangle: color=red, points=(9410, 3628) - (1851, 184) - (8720, 3318)
+126. Triangle: color=red, points=(7270, 406) - (981, 6964) - (7423, 4901)
+127. Triangle: color=red, points=(8512, 2583) - (4039, 2145) - (699, 1974)
+128. Triangle: color=red, points=(5953, 1257) - (6842, 4862) - (6766, 9625)
+129. Triangle: color=red, points=(3920, 1812) - (8447, 8681) - (6493, 5007)
+130. Rectangle: color=purple, top-left=(334, 1306), bottom-right=(3462, 1045)
+131. Triangle: color=red, points=(1264, 7759) - (4039, 390) - (3750, 8847)
+132. Circle: color=red, center=(1763, 7493), radius=587
+133. Triangle: color=red, points=(3223, 1035) - (4654, 892) - (9697, 2618)
+134. Rectangle: color=purple, top-left=(9879, 259), bottom-right=(5408, 3360)
+135. Triangle: color=red, points=(3517, 8209) - (1030, 4924) - (2509, 6460)
+136. Rectangle: color=light blue, top-left=(3873, 8373), bottom-right=(6841, 7776)
+137. Rectangle: color=red, top-left=(5830, 9435), bottom-right=(5780, 7118)
+138. Rectangle: color=red, top-left=(1788, 5931), bottom-right=(7463, 5674)
+139. Rectangle: color=purple, top-left=(9434, 3169), bottom-right=(3554, 5520)
+140. Rectangle: color=light blue, top-left=(1811, 7742), bottom-right=(4655, 180)
+141. Rectangle: color=light blue, top-left=(622, 8098), bottom-right=(9327, 5111)
+142. Rectangle: color=yellow, top-left=(4753, 4721), bottom-right=(6736, 7653)
+143. Triangle: color=red, points=(8203, 294) - (8754, 9778) - (7850, 4987)
+144. Rectangle: color=yellow, top-left=(6824, 9231), bottom-right=(5310, 8818)
+145. Triangle: color=red, points=(5174, 5476) - (8925, 3159) - (2083, 8161)
+146. Circle: color=orange, center=(998, 567), radius=9934
+147. Rectangle: color=purple, top-left=(996, 2786), bottom-right=(5993, 5479)
+148. Circle: color=purple, center=(8472, 6441), radius=359
+149. Triangle: color=red, points=(4141, 1512) - (8638, 9373) - (1631, 4047)
+150. Rectangle: color=blue, top-left=(3163, 5914), bottom-right=(9270, 7615)
+151. Circle: color=blue, center=(6325, 5711), radius=9605
+152. Circle: color=yellow, center=(6648, 8531), radius=5801
+153. Circle: color=purple, center=(6623, 4764), radius=9105
+154. Circle: color=red, center=(4602, 6462), radius=9590
+155. Triangle: color=red, points=(6393, 2734) - (1788, 7924) - (1700, 4237)
+156. Rectangle: color=orange, top-left=(1713, 5008), bottom-right=(4618, 6840)
+157. Triangle: color=red, points=(8474, 888) - (8059, 4669) - (3800, 4486)
+158. Rectangle: color=green, top-left=(2037, 286), bottom-right=(1130, 6855)
+159. Triangle: color=red, points=(6363, 3905) - (5547, 2720) - (395, 7301)
+160. Circle: color=green, center=(9023, 6782), radius=8927
+161. Circle: color=red, center=(5568, 752), radius=9359
+162. Triangle: color=red, points=(3789, 6150) - (1861, 4707) - (1275, 8815)
+163. Triangle: color=red, points=(6927, 9127) - (135, 239) - (3071, 4664)
+164. Circle: color=blue, center=(8164, 2023), radius=1728
+165. Triangle: color=red, points=(608, 445) - (9059, 2024) - (695, 2644)
+166. Triangle: color=red, points=(7157, 5256) - (8399, 1933) - (4799, 3118)
+167. Rectangle: color=blue, top-left=(7113, 3124), bottom-right=(5819, 1033)
+168. Triangle: color=red, points=(459, 4362) - (1224, 5982) - (3436, 6842)
+169. Triangle: color=red, points=(7253, 7050) - (2208, 8778) - (1945, 6848)
+170. Circle: color=light blue, center=(370, 8079), radius=695
+171. Circle: color=purple, center=(5697, 5492), radius=3981
+172. Rectangle: color=red, top-left=(1968, 5048), bottom-right=(653, 5077)
+173. Triangle: color=red, points=(5309, 346) - (2972, 8591) - (9334, 2321)
+174. Circle: color=light blue, center=(8649, 1425), radius=1432
+175. Triangle: color=red, points=(9203, 4544) - (3284, 6902) - (3611, 6587)
+176. Circle: color=red, center=(9198, 3152), radius=7855
+177. Triangle: color=red, points=(2814, 5544) - (9155, 3282) - (6802, 7273)
+178. Circle: color=orange, center=(8344, 4129), radius=2486
+179. Triangle: color=red, points=(7803, 2502) - (2551, 5445) - (7987, 4946)
+180. Circle: color=purple, center=(4246, 4452), radius=1040
+181. Triangle: color=red, points=(320, 6823) - (1099, 4873) - (8625, 5955)
+182. Circle: color=orange, center=(5442, 9518), radius=303
+183. Rectangle: color=blue, top-left=(9669, 2737), bottom-right=(4139, 2731)
+184. Rectangle: color=green, top-left=(529, 2319), bottom-right=(1221, 7278)
+185. Circle: color=green, center=(2569, 1708), radius=1069
+186. Triangle: color=red, points=(1846, 8365) - (7226, 9778) - (5496, 905)
+187. Triangle: color=red, points=(4712, 3899) - (9952, 1404) - (9300, 6768)
+188. Circle: color=purple, center=(3038, 5007), radius=7376
+189. Rectangle: color=blue, top-left=(4192, 9640), bottom-right=(8988, 5394)
+190. Triangle: color=red, points=(4491, 7107) - (1440, 2816) - (6470, 389)
+191. Circle: color=green, center=(6628, 5610), radius=7483
+192. Triangle: color=red, points=(7272, 3364) - (9489, 105) - (8160, 6083)
+193. Triangle: color=red, points=(12, 2112) - (3068, 6823) - (5587, 6491)
+194. Rectangle: color=yellow, top-left=(3761, 9486), bottom-right=(6984, 1804)
+195. Triangle: color=red, points=(3371, 4787) - (6418, 2623) - (6117, 2032)
+196. Triangle: color=red, points=(6855, 8404) - (5167, 7064) - (9817, 3584)
+197. Circle: color=light blue, center=(6545, 3473), radius=5741
+198. Circle: color=purple, center=(6982, 3182), radius=5372
+199. Circle: color=green, center=(369, 104), radius=1235
+200. Triangle: color=red, points=(5125, 2110) - (6375, 5349) - (5693, 2398)
+201. Circle: color=orange, center=(7943, 4205), radius=5349
+202. Triangle: color=red, points=(3893, 4916) - (1894, 6427) - (1834, 6703)
+203. Rectangle: color=blue, top-left=(4928, 495), bottom-right=(9012, 9939)
+204. Rectangle: color=light blue, top-left=(7895, 3380), bottom-right=(8374, 7030)
+205. Rectangle: color=green, top-left=(5644, 7151), bottom-right=(926, 65)
+206. Rectangle: color=green, top-left=(6844, 8170), bottom-right=(7964, 3604)
+207. Rectangle: color=yellow, top-left=(8188, 8893), bottom-right=(2804, 2905)
+208. Rectangle: color=blue, top-left=(3669, 3061), bottom-right=(4717, 5415)
+209. Rectangle: color=red, top-left=(5067, 7332), bottom-right=(5197, 8721)
+210. Triangle: color=red, points=(4360, 3799) - (8838, 8229) - (3468, 5260)
+211. Circle: color=light blue, center=(4858, 6120), radius=7865
+212. Rectangle: color=green, top-left=(502, 9562), bottom-right=(5757, 2544)
+213. Rectangle: color=blue, top-left=(3348, 2048), bottom-right=(7962, 7535)
+214. Triangle: color=red, points=(5528, 1677) - (2683, 1426) - (5636, 6553)
+215. Circle: color=red, center=(2206, 8840), radius=8871
+216. Circle: color=orange, center=(7791, 8456), radius=1507
+217. Triangle: color=red, points=(9970, 9203) - (4227, 7978) - (2322, 557)
+218. Rectangle: color=red, top-left=(6260, 7930), bottom-right=(2081, 3041)
+219. Rectangle: color=orange, top-left=(1175, 4380), bottom-right=(5322, 5047)
+220. Triangle: color=red, points=(3497, 4185) - (7905, 6748) - (6484, 8055)
+221. Circle: color=orange, center=(6070, 4267), radius=2029
+222. Circle: color=purple, center=(8818, 2146), radius=4535
+223. Rectangle: color=red, top-left=(3576, 3271), bottom-right=(3626, 1315)
+224. Rectangle: color=red, top-left=(8435, 5828), bottom-right=(8674, 7528)
+225. Rectangle: color=green, top-left=(7001, 1058), bottom-right=(1106, 3376)
+226. Circle: color=light blue, center=(9117, 7234), radius=3133
+227. Circle: color=red, center=(4779, 6787), radius=3175
+228. Rectangle: color=red, top-left=(8258, 4615), bottom-right=(7467, 2933)
+229. Rectangle: color=yellow, top-left=(6238, 5804), bottom-right=(789, 4599)
+230. Triangle: color=red, points=(4532, 9108) - (4776, 2618) - (3169, 1061)
+231. Rectangle: color=purple, top-left=(897, 9291), bottom-right=(2789, 784)
+232. Rectangle: color=yellow, top-left=(7958, 9883), bottom-right=(1849, 4960)
+233. Triangle: color=red, points=(7310, 8821) - (5571, 8738) - (5222, 8294)
+234. Circle: color=red, center=(9860, 9010), radius=3466
+235. Rectangle: color=orange, top-left=(3145, 5919), bottom-right=(4637, 1420)
+236. Circle: color=red, center=(323, 7978), radius=992
+237. Circle: color=blue, center=(5129, 5774), radius=8780
+238. Rectangle: color=blue, top-left=(1809, 4928), bottom-right=(3098, 226)
+239. Circle: color=light blue, center=(4919, 3443), radius=7067
+240. Rectangle: color=orange, top-left=(5379, 757), bottom-right=(4247, 4164)
+241. Circle: color=yellow, center=(1851, 3079), radius=5479
+242. Rectangle: color=green, top-left=(4599, 5333), bottom-right=(1728, 7069)
+243. Rectangle: color=blue, top-left=(3266, 8717), bottom-right=(9421, 9073)
+244. Rectangle: color=green, top-left=(8154, 8860), bottom-right=(8960, 6056)
+245. Triangle: color=red, points=(8577, 7909) - (7817, 233) - (5549, 5232)
+246. Circle: color=orange, center=(6347, 3114), radius=2414
+247. Triangle: color=red, points=(7714, 7568) - (5896, 6113) - (139, 5716)
+248. Circle: color=green, center=(6705, 4408), radius=3314
+249. Rectangle: color=green, top-left=(2450, 5280), bottom-right=(3905, 1040)
+250. Circle: color=yellow, center=(8844, 944), radius=8711
+251. Circle: color=purple, center=(7344, 7372), radius=8621
+252. Rectangle: color=red, top-left=(3548, 4120), bottom-right=(6188, 5442)
+253. Circle: color=yellow, center=(8085, 2510), radius=3614
+254. Triangle: color=red, points=(9108, 3612) - (6872, 9437) - (7522, 4456)
+255. Rectangle: color=purple, top-left=(7945, 6191), bottom-right=(9724, 4409)
+256. Triangle: color=red, points=(5151, 3002) - (4344, 1140) - (6601, 1440)
+257. Rectangle: color=orange, top-left=(5088, 9840), bottom-right=(8480, 5184)
+258. Triangle: color=red, points=(4518, 4544) - (7847, 1754) - (899, 7619)
+259. Circle: color=blue, center=(7513, 5138), radius=3714
+260. Circle: color=green, center=(1461, 3422), radius=735
+261. Triangle: color=red, points=(2974, 8477) - (5610, 7) - (1896, 7666)
+262. Circle: color=blue, center=(869, 6015), radius=1231
+263. Rectangle: color=red, top-left=(6666, 1396), bottom-right=(4623, 5319)
+264. Rectangle: color=orange, top-left=(687, 8574), bottom-right=(5152, 6663)
+265. Rectangle: color=red, top-left=(78, 8381), bottom-right=(9362, 5476)
+266. Circle: color=yellow, center=(2388, 1505), radius=5170
+267. Triangle: color=red, points=(6096, 4210) - (1053, 9848) - (1508, 2940)
+268. Triangle: color=red, points=(9669, 3224) - (7196, 3057) - (768, 9626)
+269. Circle: color=red, center=(7782, 9308), radius=7966
+270. Circle: color=orange, center=(1496, 7904), radius=2248
+271. Triangle: color=red, points=(7793, 4592) - (4592, 6111) - (8289, 1711)
+272. Triangle: color=red, points=(3919, 4722) - (4721, 3011) - (9170, 7644)
+273. Circle: color=red, center=(8818, 9457), radius=3977
+274. Triangle: color=red, points=(1950, 2977) - (1379, 4469) - (4161, 5754)
+275. Rectangle: color=orange, top-left=(9671, 2736), bottom-right=(5652, 3659)
+276. Rectangle: color=green, top-left=(7428, 3216), bottom-right=(4255, 6967)
+277. Circle: color=purple, center=(3178, 6358), radius=7290
+278. Rectangle: color=orange, top-left=(7933, 9551), bottom-right=(8794, 2572)
+279. Triangle: color=red, points=(7855, 6835) - (4270, 584) - (9199, 2343)
+280. Rectangle: color=orange, top-left=(1110, 4814), bottom-right=(7056, 6310)
+281. Triangle: color=red, points=(9633, 5250) - (7336, 5366) - (4193, 2134)
+282. Circle: color=blue, center=(8710, 7458), radius=4629
+283. Rectangle: color=blue, top-left=(9942, 4966), bottom-right=(491, 4981)
+284. Rectangle: color=yellow, top-left=(9443, 4836), bottom-right=(6127, 1062)
+285. Rectangle: color=blue, top-left=(1744, 9018), bottom-right=(7803, 8403)
+286. Rectangle: color=purple, top-left=(7075, 225), bottom-right=(4376, 108)
+287. Circle: color=red, center=(1488, 2240), radius=1731
+288. Rectangle: color=red, top-left=(8131, 7203), bottom-right=(7718, 7805)
+289. Triangle: color=red, points=(3891, 3334) - (2070, 900) - (1757, 5279)
+290. Triangle: color=red, points=(2417, 1706) - (9604, 7504) - (1364, 4203)
+291. Triangle: color=red, points=(5235, 5363) - (1750, 8489) - (6812, 9134)
+292. Rectangle: color=yellow, top-left=(9254, 4862), bottom-right=(9035, 9900)
+293. Rectangle: color=yellow, top-left=(4123, 1334), bottom-right=(6936, 2453)
+294. Triangle: color=red, points=(6049, 5871) - (5442, 5106) - (8898, 3529)
+295. Triangle: color=red, points=(7731, 3426) - (6873, 5724) - (4574, 4800)
+296. Rectangle: color=orange, top-left=(7274, 3821), bottom-right=(9342, 8493)
+297. Triangle: color=red, points=(9525, 846) - (4124, 3836) - (6498, 8945)
+298. Triangle: color=red, points=(3125, 6302) - (4918, 8479) - (7824, 5804)
+299. Triangle: color=red, points=(1740, 2093) - (2733, 6478) - (2684, 3042)
+300. Rectangle: color=red, top-left=(7073, 3578), bottom-right=(3013, 3291)
+301. Triangle: color=red, points=(6594, 3911) - (6438, 5327) - (6012, 5868)
+302. Rectangle: color=yellow, top-left=(53, 8368), bottom-right=(1622, 2512)
+303. Rectangle: color=light blue, top-left=(4623, 686), bottom-right=(8778, 6731)
+304. Circle: color=purple, center=(3805, 6238), radius=7850
+305. Circle: color=red, center=(809, 8517), radius=4842
+306. Rectangle: color=yellow, top-left=(1739, 9678), bottom-right=(3865, 983)
+307. Rectangle: color=red, top-left=(4383, 7113), bottom-right=(4434, 6460)
+308. Circle: color=blue, center=(4856, 2671), radius=6384
+309. Rectangle: color=purple, top-left=(4793, 3989), bottom-right=(4984, 7092)
+310. Triangle: color=red, points=(5577, 5327) - (7951, 3868) - (4421, 5991)
+311. Rectangle: color=purple, top-left=(3658, 6449), bottom-right=(6023, 5766)
+312. Rectangle: color=red, top-left=(6793, 3117), bottom-right=(568, 1159)
+313. Rectangle: color=red, top-left=(9495, 7493), bottom-right=(7869, 1522)
+314. Rectangle: color=yellow, top-left=(3977, 5906), bottom-right=(6993, 452)
+315. Circle: color=red, center=(7855, 878), radius=9016
+316. Circle: color=yellow, center=(7706, 6561), radius=2645
+317. Triangle: color=red, points=(5882, 1966) - (2584, 9517) - (5612, 7664)
+318. Circle: color=purple, center=(8767, 2987), radius=4964
+319. Circle: color=yellow, center=(7723, 2191), radius=5615
+320. Circle: color=purple, center=(570, 3615), radius=5593
+321. Rectangle: color=yellow, top-left=(4229, 9952), bottom-right=(168, 5352)
+322. Rectangle: color=red, top-left=(4994, 18), bottom-right=(553, 2457)
+323. Rectangle: color=light blue, top-left=(4142, 9218), bottom-right=(8031, 7491)
+324. Triangle: color=red, points=(4051, 442) - (1753, 4438) - (2072, 2803)
+325. Circle: color=blue, center=(4955, 6061), radius=8617
+326. Circle: color=orange, center=(3001, 1019), radius=1065
+327. Circle: color=green, center=(7030, 6312), radius=4701
+328. Rectangle: color=blue, top-left=(2508, 6077), bottom-right=(6759, 6294)
+329. Rectangle: color=light blue, top-left=(1111, 1419), bottom-right=(2366, 8991)
+330. Rectangle: color=purple, top-left=(4252, 8838), bottom-right=(3365, 5204)
+331. Triangle: color=red, points=(3777, 4479) - (9853, 1738) - (6287, 4467)
+332. Rectangle: color=purple, top-left=(223, 790), bottom-right=(4449, 2548)
+333. Rectangle: color=green, top-left=(9048, 1768), bottom-right=(7994, 9632)
+334. Triangle: color=red, points=(1073, 3301) - (8854, 9958) - (102, 1975)
+335. Triangle: color=red, points=(5312, 5415) - (8480, 624) - (8293, 5024)
+336. Circle: color=red, center=(7937, 2107), radius=6930
+337. Rectangle: color=yellow, top-left=(1607, 9759), bottom-right=(2893, 9597)
+338. Rectangle: color=blue, top-left=(2863, 9731), bottom-right=(9105, 7046)
+339. Rectangle: color=red, top-left=(9803, 7682), bottom-right=(9968, 1858)
+340. Circle: color=light blue, center=(6248, 315), radius=7336
+341. Circle: color=red, center=(5961, 538), radius=3203
+342. Circle: color=green, center=(1279, 5692), radius=5753
+343. Rectangle: color=purple, top-left=(2586, 7000), bottom-right=(645, 3792)
+344. Circle: color=red, center=(2062, 6414), radius=7793
+345. Rectangle: color=red, top-left=(542, 4558), bottom-right=(6705, 4957)
+346. Rectangle: color=light blue, top-left=(6779, 238), bottom-right=(8533, 9422)
+347. Rectangle: color=red, top-left=(4309, 2050), bottom-right=(6926, 1504)
+348. Rectangle: color=purple, top-left=(8738, 4524), bottom-right=(2632, 321)
+349. Triangle: color=red, points=(4450, 3279) - (3693, 7528) - (2805, 125)
+350. Circle: color=light blue, center=(9008, 6871), radius=2538
+351. Rectangle: color=yellow, top-left=(5346, 3682), bottom-right=(6451, 4420)
+352. Rectangle: color=purple, top-left=(7014, 2774), bottom-right=(7868, 8654)
+353. Circle: color=purple, center=(1079, 4250), radius=3499
+354. Circle: color=light blue, center=(8414, 9713), radius=3284
+355. Circle: color=yellow, center=(8893, 9537), radius=4279
+356. Rectangle: color=purple, top-left=(8026, 2131), bottom-right=(764, 151)
+357. Circle: color=blue, center=(9893, 7024), radius=5324
+358. Rectangle: color=purple, top-left=(8368, 3073), bottom-right=(4955, 8427)
+359. Circle: color=yellow, center=(9615, 7797), radius=7576
+360. Rectangle: color=blue, top-left=(6290, 2733), bottom-right=(8720, 6854)
+361. Rectangle: color=yellow, top-left=(4792, 3353), bottom-right=(3445, 4406)
+362. Triangle: color=red, points=(3034, 7554) - (1421, 9410) - (7103, 4082)
+363. Triangle: color=red, points=(7908, 5507) - (4596, 7335) - (4009, 2571)
+364. Triangle: color=red, points=(3586, 3694) - (6724, 9987) - (627, 3096)
+365. Triangle: color=red, points=(1818, 8462) - (6587, 3644) - (7836, 1321)
+366. Triangle: color=red, points=(5158, 9834) - (1965, 8782) - (198, 3198)
+367. Rectangle: color=light blue, top-left=(6629, 7351), bottom-right=(3011, 6913)
+368. Circle: color=orange, center=(9576, 219), radius=3038
+369. Circle: color=purple, center=(823, 9100), radius=7730
+370. Rectangle: color=blue, top-left=(8050, 8345), bottom-right=(5165, 2095)
+371. Circle: color=green, center=(7776, 7153), radius=3536
+372. Triangle: color=red, points=(2848, 7061) - (7964, 4510) - (9496, 563)
+373. Triangle: color=red, points=(92, 6301) - (3904, 8430) - (8219, 5028)
+374. Rectangle: color=green, top-left=(7992, 7266), bottom-right=(9594, 7020)
+375. Circle: color=yellow, center=(2832, 1538), radius=1834
+376. Circle: color=blue, center=(3865, 3378), radius=3559
+377. Rectangle: color=orange, top-left=(1043, 8071), bottom-right=(9623, 6688)
+378. Rectangle: color=orange, top-left=(2828, 5370), bottom-right=(1627, 6653)
+379. Circle: color=purple, center=(209, 9855), radius=8130
+380. Rectangle: color=red, top-left=(5841, 9741), bottom-right=(6916, 4598)
+381. Circle: color=red, center=(7446, 8983), radius=756
+382. Rectangle: color=orange, top-left=(9098, 7375), bottom-right=(5449, 3218)
+383. Triangle: color=red, points=(9773, 2499) - (8610, 1933) - (2658, 2990)
+384. Circle: color=orange, center=(312, 7973), radius=4746
+385. Triangle: color=red, points=(5360, 7350) - (3333, 6755) - (661, 8439)
+386. Circle: color=red, center=(4103, 7400), radius=8400
+387. Triangle: color=red, points=(2179, 4667) - (2219, 343) - (5563, 4692)
+388. Triangle: color=red, points=(9378, 198) - (3518, 8724) - (302, 6929)
+389. Triangle: color=red, points=(5945, 4713) - (6209, 8086) - (2357, 2937)
+390. Circle: color=light blue, center=(4836, 6467), radius=5093
+391. Rectangle: color=purple, top-left=(6141, 3838), bottom-right=(9947, 160)
+392. Circle: color=yellow, center=(6862, 5850), radius=7191
+393. Triangle: color=red, points=(3083, 5412) - (2867, 5932) - (8572, 7624)
+394. Circle: color=red, center=(3394, 6339), radius=5784
+395. Circle: color=purple, center=(6471, 681), radius=6967
+396. Rectangle: color=blue, top-left=(7966, 758), bottom-right=(1731, 2294)
+397. Triangle: color=red, points=(1764, 7082) - (6743, 9618) - (1281, 6304)
+398. Rectangle: color=light blue, top-left=(1348, 8985), bottom-right=(2697, 7298)
+399. Rectangle: color=blue, top-left=(5876, 9037), bottom-right=(7212, 8676)
+400. Rectangle: color=light blue, top-left=(9912, 6534), bottom-right=(2201, 9413)
+401. Triangle: color=red, points=(3129, 2698) - (7682, 1051) - (987, 3258)
+402. Triangle: color=red, points=(1668, 7290) - (701, 9830) - (1142, 7304)
+403. Triangle: color=red, points=(5675, 3967) - (2758, 9648) - (8741, 3551)
+404. Triangle: color=red, points=(3288, 6110) - (9912, 7642) - (6576, 8302)
+405. Rectangle: color=light blue, top-left=(8718, 1534), bottom-right=(6476, 284)
+406. Circle: color=blue, center=(4025, 7098), radius=6854
+407. Rectangle: color=red, top-left=(4971, 542), bottom-right=(6005, 7926)
+408. Triangle: color=red, points=(6841, 6108) - (8623, 7419) - (1661, 914)
+409. Circle: color=light blue, center=(9780, 1196), radius=7388
+410. Triangle: color=red, points=(4701, 7167) - (7918, 1700) - (7993, 562)
+411. Circle: color=purple, center=(4492, 8404), radius=4158
+412. Rectangle: color=yellow, top-left=(4375, 5808), bottom-right=(1478, 2988)
+413. Triangle: color=red, points=(7101, 5493) - (4731, 4933) - (8897, 5560)
+414. Triangle: color=red, points=(747, 3368) - (4138, 4082) - (4975, 8846)
+415. Rectangle: color=purple, top-left=(5387, 3174), bottom-right=(4706, 7420)
+416. Triangle: color=red, points=(9061, 5514) - (6484, 5662) - (8699, 9341)
+417. Circle: color=orange, center=(4897, 9597), radius=372
+418. Rectangle: color=red, top-left=(6442, 6722), bottom-right=(3726, 4384)
+419. Circle: color=green, center=(4208, 1826), radius=7926
+420. Circle: color=light blue, center=(4858, 8822), radius=355
+421. Circle: color=orange, center=(4434, 4321), radius=7582
+422. Circle: color=green, center=(3222, 5496), radius=86
+423. Triangle: color=red, points=(9631, 5203) - (7053, 420) - (4626, 2751)
+424. Triangle: color=red, points=(311, 557) - (3320, 2214) - (5341, 6663)
+425. Circle: color=blue, center=(8155, 7080), radius=951
+426. Rectangle: color=green, top-left=(2067, 6267), bottom-right=(9882, 6295)
+427. Triangle: color=red, points=(9466, 3246) - (4100, 5292) - (2365, 4358)
+428. Circle: color=green, center=(7215, 1265), radius=5844
+429. Triangle: color=red, points=(734, 7886) - (7119, 5453) - (3616, 1052)
+430. Triangle: color=red, points=(513, 4680) - (9913, 7219) - (2148, 258)
+431. Triangle: color=red, points=(554, 100) - (6014, 9525) - (9229, 3119)
+432. Rectangle: color=purple, top-left=(4781, 5116), bottom-right=(2035, 3924)
+433. Rectangle: color=green, top-left=(2116, 6503), bottom-right=(5528, 4790)
+434. Rectangle: color=light blue, top-left=(8932, 6235), bottom-right=(4158, 7123)
+435. Triangle: color=red, points=(2505, 7951) - (8265, 6235) - (4236, 9881)
+436. Rectangle: color=green, top-left=(9448, 5100), bottom-right=(5735, 9138)
+437. Circle: color=orange, center=(5670, 7370), radius=50
+438. Circle: color=purple, center=(8092, 1569), radius=7388
+439. Circle: color=green, center=(263, 6896), radius=811
+440. Rectangle: color=yellow, top-left=(134, 6181), bottom-right=(463, 8303)
+441. Triangle: color=red, points=(7563, 2466) - (989, 5051) - (1970, 3648)
+442. Circle: color=green, center=(6528, 8340), radius=7679
+443. Circle: color=green, center=(1037, 6229), radius=8429
+444. Circle: color=red, center=(157, 7286), radius=6548
+445. Circle: color=blue, center=(2103, 4454), radius=31
+446. Rectangle: color=light blue, top-left=(9084, 4986), bottom-right=(2542, 5472)
+447. Rectangle: color=purple, top-left=(9966, 6545), bottom-right=(4280, 2735)
+448. Circle: color=light blue, center=(9961, 947), radius=5694
+449. Triangle: color=red, points=(7762, 2801) - (8115, 9229) - (8442, 3895)
+450. Triangle: color=red, points=(2114, 9742) - (2680, 2760) - (5606, 3162)
+451. Triangle: color=red, points=(1928, 6484) - (4839, 88) - (2965, 743)
+452. Triangle: color=red, points=(5076, 6044) - (8691, 7525) - (9000, 3846)
+453. Rectangle: color=light blue, top-left=(2165, 5639), bottom-right=(6868, 5119)
+454. Rectangle: color=yellow, top-left=(8937, 8190), bottom-right=(4174, 9719)
+455. Triangle: color=red, points=(8206, 2120) - (8951, 2375) - (1075, 9969)
+456. Rectangle: color=red, top-left=(576, 6389), bottom-right=(2558, 5738)
+457. Circle: color=light blue, center=(5214, 6785), radius=9033
+458. Triangle: color=red, points=(9020, 8194) - (4390, 5663) - (446, 1935)
+459. Circle: color=light blue, center=(2894, 7509), radius=6661
+460. Rectangle: color=light blue, top-left=(7173, 7765), bottom-right=(8837, 7074)
+461. Circle: color=purple, center=(3479, 7103), radius=3347
+462. Rectangle: color=purple, top-left=(9371, 6315), bottom-right=(2842, 1479)
+463. Triangle: color=red, points=(3685, 4536) - (3439, 8672) - (2859, 8623)
+464. Circle: color=yellow, center=(8805, 2708), radius=3853
+465. Circle: color=green, center=(1349, 696), radius=6974
+466. Triangle: color=red, points=(6063, 5061) - (8322, 9499) - (9022, 6844)
+467. Rectangle: color=purple, top-left=(8210, 9880), bottom-right=(4583, 2713)
+468. Triangle: color=red, points=(3754, 6273) - (2973, 5466) - (1211, 4529)
+469. Circle: color=blue, center=(69, 186), radius=3720
+470. Rectangle: color=light blue, top-left=(3020, 7450), bottom-right=(1933, 9611)
+471. Circle: color=orange, center=(2419, 5050), radius=3684
+472. Triangle: color=red, points=(5642, 3130) - (2329, 658) - (3911, 2963)
+473. Rectangle: color=orange, top-left=(802, 59), bottom-right=(240, 7926)
+474. Circle: color=blue, center=(6168, 8146), radius=8216
+475. Circle: color=light blue, center=(6690, 3260), radius=9313
+476. Triangle: color=red, points=(4945, 2673) - (1726, 4185) - (5255, 6283)
+477. Rectangle: color=yellow, top-left=(4622, 9760), bottom-right=(1825, 16)
+478. Triangle: color=red, points=(5338, 1193) - (8678, 3271) - (2781, 9482)
+479. Rectangle: color=light blue, top-left=(4535, 8565), bottom-right=(3008, 8319)
+480. Rectangle: color=orange, top-left=(3799, 5913), bottom-right=(6100, 3504)
+481. Rectangle: color=yellow, top-left=(6613, 9990), bottom-right=(9498, 7197)
+482. Triangle: color=red, points=(1241, 4231) - (241, 4593) - (3194, 3138)
+483. Rectangle: color=green, top-left=(3300, 333), bottom-right=(9843, 466)
+484. Circle: color=orange, center=(9918, 7967), radius=7267
+485. Rectangle: color=yellow, top-left=(9824, 6104), bottom-right=(5289, 279)
+486. Rectangle: color=light blue, top-left=(1580, 7936), bottom-right=(6804, 7703)
+487. Circle: color=green, center=(9946, 6668), radius=5352
+488. Triangle: color=red, points=(8810, 9501) - (6097, 7974) - (1758, 8554)
+489. Rectangle: color=green, top-left=(1440, 6954), bottom-right=(2621, 3754)
+490. Circle: color=light blue, center=(230, 6848), radius=8803
+491. Rectangle: color=purple, top-left=(1967, 2949), bottom-right=(1641, 9628)
+492. Rectangle: color=red, top-left=(725, 5735), bottom-right=(8279, 6434)
+493. Rectangle: color=orange, top-left=(6147, 9997), bottom-right=(1292, 2013)
+494. Rectangle: color=yellow, top-left=(7328, 9492), bottom-right=(1941, 4822)
+495. Triangle: color=red, points=(5839, 3663) - (9485, 1258) - (5687, 4925)
+496. Rectangle: color=purple, top-left=(7262, 8526), bottom-right=(6043, 6010)
+497. Rectangle: color=blue, top-left=(7840, 733), bottom-right=(9301, 4628)
+498. Circle: color=yellow, center=(8441, 3248), radius=9970
+499. Circle: color=blue, center=(6735, 8098), radius=240
+500. Circle: color=green, center=(4364, 1084), radius=2610
+501. Circle: color=orange, center=(9153, 3579), radius=6246
+502. Rectangle: color=purple, top-left=(3397, 1635), bottom-right=(2197, 1061)
+503. Rectangle: color=purple, top-left=(588, 369), bottom-right=(1480, 2272)
+504. Triangle: color=red, points=(3901, 3615) - (1145, 7348) - (1766, 2434)
+505. Circle: color=red, center=(7532, 1081), radius=9837
+506. Triangle: color=red, points=(6215, 4608) - (9334, 2175) - (8112, 5758)
+507. Circle: color=orange, center=(2157, 6032), radius=1322
+508. Circle: color=blue, center=(5603, 5198), radius=283
+509. Circle: color=light blue, center=(7280, 5165), radius=3005
+510. Circle: color=orange, center=(9836, 4178), radius=7058
+511. Rectangle: color=green, top-left=(5727, 4476), bottom-right=(7115, 5788)
+512. Circle: color=purple, center=(9369, 7212), radius=5660
+513. Triangle: color=red, points=(4830, 8948) - (2571, 5576) - (4757, 2617)
+514. Triangle: color=red, points=(148, 340) - (5292, 6402) - (2162, 499)
+515. Rectangle: color=blue, top-left=(8258, 5033), bottom-right=(2659, 199)
+516. Rectangle: color=yellow, top-left=(4247, 5556), bottom-right=(5299, 6989)
+517. Circle: color=green, center=(6862, 60), radius=635
+518. Triangle: color=red, points=(5151, 8064) - (4999, 1015) - (8517, 3808)
+519. Circle: color=orange, center=(4111, 4947), radius=7425
+520. Circle: color=yellow, center=(4615, 7610), radius=9797
+521. Circle: color=yellow, center=(9858, 5673), radius=3119
+522. Rectangle: color=purple, top-left=(7425, 4385), bottom-right=(13, 8859)
+523. Circle: color=green, center=(6178, 1668), radius=8382
+524. Triangle: color=red, points=(9557, 1821) - (5130, 1504) - (6025, 8108)
+525. Rectangle: color=light blue, top-left=(1497, 6361), bottom-right=(3522, 9761)
+526. Rectangle: color=light blue, top-left=(8541, 4485), bottom-right=(7101, 9212)
+527. Triangle: color=red, points=(9444, 352) - (4800, 4300) - (1552, 6060)
+528. Rectangle: color=blue, top-left=(1329, 4998), bottom-right=(81, 623)
+529. Rectangle: color=purple, top-left=(6459, 3399), bottom-right=(7516, 8355)
+530. Rectangle: color=yellow, top-left=(5182, 9989), bottom-right=(9219, 1300)
+531. Rectangle: color=purple, top-left=(8448, 1614), bottom-right=(1363, 5051)
+532. Rectangle: color=yellow, top-left=(2152, 1139), bottom-right=(3131, 4008)
+533. Triangle: color=red, points=(1914, 7598) - (1031, 1089) - (4565, 4826)
+534. Triangle: color=red, points=(8015, 869) - (7345, 9634) - (3951, 8702)
+535. Circle: color=light blue, center=(2533, 8953), radius=8548
+536. Circle: color=red, center=(1479, 3670), radius=3682
+537. Circle: color=orange, center=(771, 7228), radius=2574
+538. Rectangle: color=green, top-left=(6145, 3588), bottom-right=(7728, 8148)
+539. Circle: color=orange, center=(3864, 581), radius=140
+540. Triangle: color=red, points=(6189, 7943) - (2479, 8372) - (202, 220)
+541. Triangle: color=red, points=(2054, 1944) - (2336, 1851) - (4984, 3316)
+542. Triangle: color=red, points=(3753, 2250) - (8035, 6940) - (2915, 7342)
+543. Triangle: color=red, points=(9199, 2611) - (1188, 6087) - (7211, 1607)
+544. Rectangle: color=orange, top-left=(3356, 9830), bottom-right=(3355, 9762)
+545. Triangle: color=red, points=(623, 3685) - (766, 832) - (8265, 5299)
+546. Circle: color=green, center=(5991, 8957), radius=4238
+547. Triangle: color=red, points=(3681, 2361) - (466, 1076) - (7644, 6694)
+548. Triangle: color=red, points=(232, 7939) - (4755, 2099) - (6951, 6135)
+549. Circle: color=yellow, center=(285, 5023), radius=3312
+550. Rectangle: color=blue, top-left=(4412, 1248), bottom-right=(2906, 627)
+551. Rectangle: color=green, top-left=(7288, 9739), bottom-right=(6602, 851)
+552. Rectangle: color=light blue, top-left=(8658, 7598), bottom-right=(6833, 7111)
+553. Rectangle: color=red, top-left=(4168, 942), bottom-right=(8385, 9503)
+554. Rectangle: color=orange, top-left=(4145, 6062), bottom-right=(2697, 3779)
+555. Circle: color=blue, center=(4790, 355), radius=3295
+556. Rectangle: color=yellow, top-left=(6953, 2031), bottom-right=(4364, 5337)
+557. Triangle: color=red, points=(5821, 212) - (4024, 6994) - (970, 558)
+558. Triangle: color=red, points=(9711, 696) - (6653, 9297) - (8413, 263)
+559. Circle: color=blue, center=(6937, 2994), radius=2599
+560. Triangle: color=red, points=(7300, 8128) - (4523, 9942) - (1938, 5086)
+561. Triangle: color=red, points=(1932, 8694) - (6831, 63) - (7890, 1809)
+562. Triangle: color=red, points=(7261, 9716) - (9790, 6771) - (2970, 5900)
+563. Circle: color=orange, center=(3778, 2477), radius=9347
+564. Rectangle: color=red, top-left=(7783, 9801), bottom-right=(7811, 9625)
+565. Circle: color=green, center=(609, 7447), radius=7225
+566. Circle: color=red, center=(6166, 2681), radius=3371
+567. Triangle: color=red, points=(6770, 3230) - (7354, 1023) - (5897, 9581)
+568. Rectangle: color=yellow, top-left=(3344, 1475), bottom-right=(9057, 6860)
+569. Triangle: color=red, points=(4766, 7198) - (2234, 6994) - (520, 7073)
+570. Rectangle: color=green, top-left=(9360, 5352), bottom-right=(3026, 6105)
+571. Circle: color=light blue, center=(5538, 9574), radius=6719
+572. Triangle: color=red, points=(590, 5344) - (4169, 9760) - (8622, 9411)
+573. Rectangle: color=blue, top-left=(8823, 6573), bottom-right=(1782, 609)
+574. Rectangle: color=green, top-left=(4530, 1475), bottom-right=(4084, 359)
+575. Rectangle: color=orange, top-left=(2983, 7431), bottom-right=(2438, 377)
+576. Circle: color=light blue, center=(7523, 1138), radius=9951
+577. Circle: color=green, center=(2126, 9156), radius=5868
+578. Rectangle: color=blue, top-left=(4577, 5946), bottom-right=(3078, 3881)
+579. Rectangle: color=yellow, top-left=(6471, 3634), bottom-right=(1883, 8663)
+580. Rectangle: color=red, top-left=(9373, 9574), bottom-right=(9677, 9151)
+581. Rectangle: color=orange, top-left=(5022, 7855), bottom-right=(5931, 6856)
+582. Rectangle: color=green, top-left=(9152, 6447), bottom-right=(3001, 1084)
+583. Triangle: color=red, points=(7780, 6913) - (9417, 9910) - (9774, 9703)
+584. Circle: color=blue, center=(7504, 1822), radius=9220
+585. Rectangle: color=green, top-left=(2102, 9583), bottom-right=(5773, 8786)
+586. Circle: color=green, center=(6723, 9394), radius=6011
+587. Circle: color=light blue, center=(2432, 7909), radius=2410
+588. Triangle: color=red, points=(3703, 4549) - (1255, 845) - (8183, 1515)
+589. Rectangle: color=light blue, top-left=(6583, 5090), bottom-right=(1638, 1446)
+590. Triangle: color=red, points=(7450, 4156) - (973, 1512) - (4147, 8)
+591. Triangle: color=red, points=(8447, 4432) - (3961, 2749) - (5264, 2156)
+592. Rectangle: color=blue, top-left=(6045, 1249), bottom-right=(3321, 6920)
+593. Triangle: color=red, points=(9505, 3729) - (3505, 4811) - (9941, 6873)
+594. Triangle: color=red, points=(6206, 1056) - (6990, 3639) - (3269, 3132)
+595. Triangle: color=red, points=(733, 4732) - (2243, 4539) - (4037, 3646)
+596. Circle: color=red, center=(4591, 9979), radius=8120
+597. Triangle: color=red, points=(9833, 5917) - (1317, 9762) - (797, 113)
+598. Triangle: color=red, points=(2974, 172) - (4916, 4983) - (587, 373)
+599. Rectangle: color=light blue, top-left=(313, 6241), bottom-right=(7173, 7870)
+600. Circle: color=blue, center=(9358, 3584), radius=8186
+601. Triangle: color=red, points=(8855, 9122) - (9307, 6907) - (9513, 4495)
+602. Rectangle: color=light blue, top-left=(2077, 1135), bottom-right=(5988, 1225)
+603. Triangle: color=red, points=(7748, 4875) - (2750, 4838) - (2837, 7479)
+604. Triangle: color=red, points=(7669, 6934) - (5267, 5791) - (865, 3243)
+605. Rectangle: color=purple, top-left=(7200, 5338), bottom-right=(734, 1932)
+606. Triangle: color=red, points=(7192, 4867) - (7740, 4914) - (6059, 8493)
+607. Circle: color=orange, center=(7174, 7988), radius=792
+608. Rectangle: color=purple, top-left=(3589, 7278), bottom-right=(7611, 8022)
+609. Triangle: color=red, points=(9409, 4069) - (3320, 5769) - (4358, 8017)
+610. Triangle: color=red, points=(362, 6281) - (812, 5307) - (1527, 7536)
+611. Triangle: color=red, points=(4710, 7013) - (3589, 509) - (9089, 7831)
+612. Rectangle: color=blue, top-left=(7544, 6157), bottom-right=(3804, 5853)
+613. Circle: color=blue, center=(2001, 6645), radius=4736
+614. Circle: color=green, center=(9730, 4638), radius=6831
+615. Circle: color=purple, center=(1600, 5917), radius=5592
+616. Triangle: color=red, points=(3032, 8155) - (67, 9165) - (417, 9229)
+617. Rectangle: color=purple, top-left=(6826, 215), bottom-right=(2013, 3660)
+618. Rectangle: color=light blue, top-left=(5050, 2375), bottom-right=(9800, 4836)
+619. Rectangle: color=green, top-left=(9141, 3951), bottom-right=(7573, 5238)
+620. Triangle: color=red, points=(2020, 6663) - (5025, 148) - (2201, 3756)
+621. Triangle: color=red, points=(2601, 3379) - (8244, 8376) - (1829, 9242)
+622. Rectangle: color=light blue, top-left=(3386, 2320), bottom-right=(3049, 4073)
+623. Rectangle: color=green, top-left=(9018, 9125), bottom-right=(7413, 2472)
+624. Triangle: color=red, points=(2331, 5330) - (8754, 430) - (3070, 9337)
+625. Rectangle: color=red, top-left=(2444, 8517), bottom-right=(8049, 5294)
+626. Triangle: color=red, points=(7967, 7890) - (8797, 4724) - (29, 7365)
+627. Rectangle: color=blue, top-left=(3906, 9283), bottom-right=(2, 7854)
+628. Rectangle: color=yellow, top-left=(6494, 8179), bottom-right=(8308, 6612)
+629. Circle: color=light blue, center=(2587, 1411), radius=2292
+630. Circle: color=orange, center=(2881, 2816), radius=5898
+631. Circle: color=red, center=(362, 9405), radius=5888
+632. Circle: color=purple, center=(9422, 6694), radius=110
+633. Triangle: color=red, points=(2450, 2318) - (4575, 5139) - (1537, 3231)
+634. Rectangle: color=purple, top-left=(8709, 4977), bottom-right=(1773, 7182)
+635. Circle: color=blue, center=(5177, 5656), radius=275
+636. Circle: color=orange, center=(7447, 3136), radius=47
+637. Triangle: color=red, points=(9487, 7356) - (5895, 2590) - (5731, 1282)
+638. Circle: color=yellow, center=(7445, 8127), radius=831
+639. Circle: color=light blue, center=(1714, 3658), radius=899
+640. Triangle: color=red, points=(9711, 3019) - (9302, 3429) - (3203, 1137)
+641. Rectangle: color=orange, top-left=(1963, 7147), bottom-right=(4112, 3538)
+642. Circle: color=yellow, center=(268, 5466), radius=4023
+643. Rectangle: color=green, top-left=(9901, 6709), bottom-right=(6738, 1748)
+644. Triangle: color=red, points=(6007, 1353) - (2580, 4989) - (2992, 1219)
+645. Circle: color=purple, center=(986, 8399), radius=2519
+646. Triangle: color=red, points=(9548, 4132) - (3717, 8887) - (8326, 5704)
+647. Triangle: color=red, points=(3779, 4806) - (9009, 7176) - (2264, 826)
+648. Triangle: color=red, points=(9025, 7817) - (6352, 2469) - (1636, 7970)
+649. Circle: color=purple, center=(5216, 1480), radius=8026
+650. Circle: color=light blue, center=(3407, 5954), radius=9198
+651. Circle: color=orange, center=(4547, 6784), radius=4176
+652. Rectangle: color=red, top-left=(9560, 4091), bottom-right=(9910, 7020)
+653. Circle: color=blue, center=(8514, 3053), radius=6921
+654. Triangle: color=red, points=(7547, 5288) - (5308, 3148) - (2418, 921)
+655. Rectangle: color=red, top-left=(8193, 4132), bottom-right=(4530, 1841)
+656. Circle: color=orange, center=(9627, 4188), radius=5538
+657. Rectangle: color=orange, top-left=(1528, 1949), bottom-right=(8251, 1994)
+658. Triangle: color=red, points=(2814, 4061) - (9305, 484) - (1773, 5262)
+659. Circle: color=yellow, center=(5025, 8654), radius=4975
+660. Circle: color=light blue, center=(53, 3022), radius=9308
+661. Triangle: color=red, points=(839, 9530) - (4918, 3108) - (6216, 9707)
+662. Triangle: color=red, points=(1308, 1053) - (6308, 6541) - (4431, 7857)
+663. Rectangle: color=yellow, top-left=(6847, 8404), bottom-right=(9486, 1157)
+664. Rectangle: color=blue, top-left=(4691, 3125), bottom-right=(6886, 264)
+665. Rectangle: color=yellow, top-left=(2185, 7606), bottom-right=(7197, 9557)
+666. Rectangle: color=light blue, top-left=(8289, 2406), bottom-right=(8288, 9050)
+667. Triangle: color=red, points=(347, 4342) - (6063, 5365) - (5097, 1532)
+668. Rectangle: color=green, top-left=(5555, 5448), bottom-right=(2334, 7314)
+669. Circle: color=red, center=(9984, 9856), radius=2146
+670. Rectangle: color=yellow, top-left=(2388, 8316), bottom-right=(5890, 439)
+671. Triangle: color=red, points=(3408, 584) - (9442, 259) - (6478, 2434)
+672. Circle: color=orange, center=(3002, 6860), radius=3792
+673. Rectangle: color=red, top-left=(2393, 7087), bottom-right=(5469, 1866)
+674. Rectangle: color=yellow, top-left=(9654, 9722), bottom-right=(3000, 4272)
+675. Rectangle: color=purple, top-left=(8513, 4736), bottom-right=(5572, 6031)
+676. Circle: color=blue, center=(8070, 5725), radius=9162
+677. Triangle: color=red, points=(7119, 5135) - (5923, 938) - (1335, 5658)
+678. Triangle: color=red, points=(8959, 3106) - (4548, 9581) - (261, 7318)
+679. Triangle: color=red, points=(8159, 9934) - (9603, 2795) - (8272, 7854)
+680. Circle: color=blue, center=(4902, 3136), radius=7446
+681. Triangle: color=red, points=(9822, 4878) - (6156, 2628) - (4828, 9593)
+682. Rectangle: color=blue, top-left=(1555, 2777), bottom-right=(7370, 7056)
+683. Rectangle: color=green, top-left=(7786, 3210), bottom-right=(8532, 8375)
+684. Triangle: color=red, points=(7640, 2620) - (6729, 9202) - (308, 7096)
+685. Circle: color=purple, center=(536, 2868), radius=9313
+686. Circle: color=green, center=(358, 4104), radius=3347
+687. Circle: color=red, center=(1904, 8018), radius=2055
+688. Rectangle: color=blue, top-left=(1826, 8743), bottom-right=(3575, 4179)
+689. Rectangle: color=light blue, top-left=(6732, 4818), bottom-right=(6191, 6431)
+690. Circle: color=green, center=(1308, 2263), radius=1329
+691. Triangle: color=red, points=(8240, 2748) - (9436, 8273) - (8430, 8185)
+692. Rectangle: color=yellow, top-left=(5718, 9620), bottom-right=(8415, 1343)
+693. Rectangle: color=red, top-left=(9655, 9082), bottom-right=(4121, 1144)
+694. Rectangle: color=yellow, top-left=(5970, 190), bottom-right=(3874, 1466)
+695. Circle: color=blue, center=(3965, 554), radius=2422
+696. Circle: color=blue, center=(9682, 9909), radius=7575
+697. Triangle: color=red, points=(5898, 4825) - (9770, 2592) - (5721, 8420)
+698. Circle: color=red, center=(1155, 3643), radius=1784
+699. Triangle: color=red, points=(269, 6322) - (8968, 3970) - (8196, 5806)
+700. Circle: color=yellow, center=(5901, 6738), radius=3771
+701. Circle: color=green, center=(5035, 7725), radius=5979
+702. Circle: color=light blue, center=(2474, 8071), radius=3609
+703. Rectangle: color=yellow, top-left=(3388, 8701), bottom-right=(2319, 59)
+704. Triangle: color=red, points=(3279, 1949) - (4494, 2726) - (7428, 8750)
+705. Circle: color=green, center=(780, 287), radius=5438
+706. Circle: color=purple, center=(8596, 7739), radius=8740
+707. Rectangle: color=green, top-left=(350, 3052), bottom-right=(1745, 6284)
+708. Rectangle: color=blue, top-left=(7524, 3608), bottom-right=(8766, 2591)
+709. Rectangle: color=red, top-left=(1816, 8351), bottom-right=(2257, 9473)
+710. Rectangle: color=orange, top-left=(761, 732), bottom-right=(6377, 1069)
+711. Triangle: color=red, points=(3412, 7553) - (216, 9496) - (4023, 5062)
+712. Circle: color=purple, center=(1961, 4911), radius=8008
+713. Circle: color=yellow, center=(195, 2150), radius=9315
+714. Triangle: color=red, points=(5478, 4605) - (9214, 1172) - (5877, 7095)
+715. Rectangle: color=red, top-left=(1569, 2733), bottom-right=(8023, 2494)
+716. Rectangle: color=purple, top-left=(7775, 2930), bottom-right=(9978, 2226)
+717. Circle: color=green, center=(4888, 9760), radius=1355
+718. Triangle: color=red, points=(5437, 537) - (7810, 6201) - (6848, 1463)
+719. Rectangle: color=purple, top-left=(8632, 187), bottom-right=(2111, 5541)
+720. Circle: color=red, center=(8019, 1846), radius=2048
+721. Triangle: color=red, points=(2086, 7232) - (1695, 3521) - (4342, 6549)
+722. Circle: color=green, center=(4525, 7995), radius=3362
+723. Triangle: color=red, points=(7665, 3547) - (4984, 7145) - (2355, 1494)
+724. Triangle: color=red, points=(1251, 9768) - (415, 5454) - (7218, 3421)
+725. Circle: color=red, center=(3538, 6487), radius=2473
+726. Triangle: color=red, points=(6059, 2647) - (2630, 7637) - (5691, 9253)
+727. Triangle: color=red, points=(5868, 9444) - (6164, 1866) - (3053, 7823)
+728. Triangle: color=red, points=(9000, 1775) - (6807, 4152) - (2181, 2952)
+729. Triangle: color=red, points=(4750, 6319) - (7880, 6514) - (5972, 9941)
+730. Circle: color=green, center=(2322, 2503), radius=659
+731. Triangle: color=red, points=(8475, 5300) - (5688, 7225) - (2862, 389)
+732. Rectangle: color=green, top-left=(6055, 7947), bottom-right=(9479, 9458)
+733. Triangle: color=red, points=(2651, 4538) - (9747, 9224) - (2800, 5947)
+734. Triangle: color=red, points=(5669, 5755) - (7199, 7055) - (9267, 8428)
+735. Triangle: color=red, points=(6371, 1226) - (5406, 2732) - (8295, 3458)
+736. Triangle: color=red, points=(3430, 6823) - (4591, 235) - (3401, 5756)
+737. Circle: color=red, center=(4435, 2293), radius=904
+738. Circle: color=blue, center=(3441, 3001), radius=7079
+739. Circle: color=orange, center=(4477, 2362), radius=5503
+740. Triangle: color=red, points=(9756, 3172) - (8332, 8949) - (1765, 6678)
+741. Rectangle: color=purple, top-left=(6687, 9004), bottom-right=(626, 4063)
+742. Circle: color=blue, center=(7352, 7904), radius=4931
+743. Rectangle: color=orange, top-left=(1646, 872), bottom-right=(2244, 2296)
+744. Triangle: color=red, points=(5282, 5994) - (3726, 7613) - (7298, 4064)
+745. Triangle: color=red, points=(9474, 5683) - (398, 2347) - (7838, 6282)
+746. Rectangle: color=yellow, top-left=(5302, 6093), bottom-right=(5117, 9617)
+747. Circle: color=purple, center=(1154, 78), radius=8975
+748. Triangle: color=red, points=(9835, 5780) - (2086, 4614) - (4523, 3232)
+749. Triangle: color=red, points=(3035, 3499) - (8901, 2934) - (9861, 2036)
+750. Triangle: color=red, points=(5895, 4657) - (6547, 1137) - (4213, 4619)
+751. Triangle: color=red, points=(8056, 2713) - (6728, 3816) - (9435, 1009)
+752. Circle: color=orange, center=(7471, 9509), radius=9516
+753. Triangle: color=red, points=(621, 8542) - (6269, 4070) - (5985, 3364)
+754. Triangle: color=red, points=(67, 4642) - (5019, 6905) - (3281, 8447)
+755. Triangle: color=red, points=(7488, 937) - (5882, 2651) - (3221, 4810)
+756. Rectangle: color=red, top-left=(6617, 8039), bottom-right=(7744, 963)
+757. Rectangle: color=orange, top-left=(9229, 5811), bottom-right=(3617, 7068)
+758. Circle: color=orange, center=(6968, 9438), radius=7890
+759. Rectangle: color=blue, top-left=(1241, 9470), bottom-right=(2044, 3928)
+760. Rectangle: color=purple, top-left=(1270, 938), bottom-right=(5725, 2404)
+761. Rectangle: color=red, top-left=(5181, 7015), bottom-right=(1535, 5661)
+762. Triangle: color=red, points=(554, 7633) - (944, 2973) - (9494, 5238)
+763. Triangle: color=red, points=(9924, 949) - (700, 5757) - (815, 10)
+764. Triangle: color=red, points=(8793, 4007) - (2969, 1726) - (9824, 6835)
+765. Triangle: color=red, points=(7458, 569) - (2788, 2939) - (407, 5923)
+766. Rectangle: color=blue, top-left=(1137, 5895), bottom-right=(3542, 7217)
+767. Rectangle: color=blue, top-left=(9850, 7346), bottom-right=(9197, 6659)
+768. Circle: color=yellow, center=(2902, 4554), radius=1221
+769. Triangle: color=red, points=(6861, 4466) - (6966, 4610) - (7073, 4542)
+770. Triangle: color=red, points=(4516, 4622) - (9620, 1126) - (8713, 8448)
+771. Circle: color=green, center=(9423, 8239), radius=2271
+772. Rectangle: color=orange, top-left=(1335, 9951), bottom-right=(9504, 8007)
+773. Triangle: color=red, points=(4268, 5457) - (5254, 5699) - (5771, 5639)
+774. Rectangle: color=green, top-left=(9706, 4537), bottom-right=(9271, 6108)
+775. Rectangle: color=green, top-left=(602, 1631), bottom-right=(5665, 3473)
+776. Triangle: color=red, points=(254, 433) - (2634, 3136) - (1542, 9079)
+777. Rectangle: color=purple, top-left=(8744, 3570), bottom-right=(8512, 2678)
+778. Triangle: color=red, points=(4740, 5438) - (55, 8894) - (5149, 2218)
+779. Circle: color=light blue, center=(819, 9660), radius=2558
+780. Rectangle: color=purple, top-left=(1042, 5922), bottom-right=(8601, 8955)
+781. Triangle: color=red, points=(30, 5124) - (4316, 2455) - (2604, 5897)
+782. Circle: color=yellow, center=(9783, 2907), radius=5787
+783. Circle: color=light blue, center=(4262, 7565), radius=3908
+784. Circle: color=orange, center=(584, 2337), radius=520
+785. Circle: color=red, center=(5881, 7673), radius=9438
+786. Triangle: color=red, points=(260, 7807) - (7176, 1470) - (5344, 8602)
+787. Circle: color=yellow, center=(4591, 6545), radius=7507
+788. Triangle: color=red, points=(9870, 7872) - (5992, 4713) - (7090, 1675)
+789. Rectangle: color=blue, top-left=(1836, 5300), bottom-right=(221, 5474)
+790. Rectangle: color=red, top-left=(8054, 2937), bottom-right=(8455, 8527)
+791. Triangle: color=red, points=(80, 5095) - (4741, 9829) - (317, 7522)
+792. Circle: color=yellow, center=(4546, 4003), radius=5100
+793. Rectangle: color=yellow, top-left=(3708, 4827), bottom-right=(8800, 8859)
+794. Circle: color=purple, center=(7086, 9573), radius=9058
+795. Rectangle: color=yellow, top-left=(5894, 5469), bottom-right=(6935, 9210)
+796. Rectangle: color=blue, top-left=(6033, 7269), bottom-right=(428, 4769)
+797. Triangle: color=red, points=(9936, 9924) - (4964, 3412) - (7257, 546)
+798. Circle: color=blue, center=(2189, 5455), radius=4578
+799. Circle: color=green, center=(8916, 1902), radius=7012
+800. Rectangle: color=purple, top-left=(8903, 9804), bottom-right=(4333, 5283)
+801. Rectangle: color=yellow, top-left=(5386, 6383), bottom-right=(4978, 1596)
+802. Rectangle: color=light blue, top-left=(3749, 1356), bottom-right=(5901, 8983)
+803. Rectangle: color=green, top-left=(7441, 5577), bottom-right=(4903, 1841)
+804. Circle: color=green, center=(2756, 8915), radius=619
+805. Rectangle: color=orange, top-left=(7687, 6965), bottom-right=(7495, 3201)
+806. Triangle: color=red, points=(5998, 926) - (4603, 7067) - (223, 1800)
+807. Circle: color=green, center=(9487, 5015), radius=4595
+808. Triangle: color=red, points=(7297, 7450) - (3779, 8181) - (4621, 4237)
+809. Circle: color=light blue, center=(9435, 1572), radius=605
+810. Circle: color=green, center=(9761, 2422), radius=284
+811. Triangle: color=red, points=(1573, 905) - (2101, 196) - (6364, 87)
+812. Rectangle: color=purple, top-left=(9279, 4034), bottom-right=(4981, 4448)
+813. Circle: color=blue, center=(2102, 7117), radius=6197
+814. Triangle: color=red, points=(4958, 8300) - (7845, 5186) - (3212, 7511)
+815. Rectangle: color=yellow, top-left=(4501, 6165), bottom-right=(2348, 4153)
+816. Circle: color=red, center=(8076, 4916), radius=8499
+817. Rectangle: color=orange, top-left=(7449, 3835), bottom-right=(3942, 6397)
+818. Rectangle: color=blue, top-left=(205, 1265), bottom-right=(8356, 8894)
+819. Rectangle: color=purple, top-left=(2250, 3926), bottom-right=(4849, 4578)
+820. Triangle: color=red, points=(5389, 157) - (1443, 7262) - (3390, 7518)
+821. Rectangle: color=blue, top-left=(1563, 8080), bottom-right=(1624, 1018)
+822. Triangle: color=red, points=(1479, 876) - (2692, 1758) - (274, 2897)
+823. Circle: color=purple, center=(1720, 8636), radius=7855
+824. Circle: color=red, center=(4186, 5723), radius=277
+825. Circle: color=orange, center=(2751, 8934), radius=9883
+826. Circle: color=green, center=(3452, 8886), radius=3269
+827. Rectangle: color=light blue, top-left=(1289, 9565), bottom-right=(1859, 1078)
+828. Circle: color=yellow, center=(2002, 1025), radius=5293
+829. Circle: color=light blue, center=(7134, 121), radius=1849
+830. Triangle: color=red, points=(4666, 8157) - (9463, 1070) - (8268, 1314)
+831. Circle: color=red, center=(2476, 3804), radius=9625
+832. Circle: color=yellow, center=(1927, 523), radius=3845
+833. Circle: color=yellow, center=(6914, 92), radius=3216
+834. Circle: color=orange, center=(8408, 7189), radius=5426
+835. Rectangle: color=yellow, top-left=(1364, 8944), bottom-right=(5195, 9515)
+836. Circle: color=green, center=(3716, 6868), radius=7526
+837. Circle: color=red, center=(2371, 2494), radius=2603
+838. Triangle: color=red, points=(4576, 8546) - (3850, 4741) - (7533, 1655)
+839. Triangle: color=red, points=(9966, 3947) - (2583, 2116) - (9029, 54)
+840. Circle: color=orange, center=(8696, 2047), radius=8502
+841. Rectangle: color=green, top-left=(688, 3499), bottom-right=(7083, 7643)
+842. Rectangle: color=light blue, top-left=(875, 5121), bottom-right=(4260, 4336)
+843. Rectangle: color=light blue, top-left=(7525, 3178), bottom-right=(1405, 2460)
+844. Triangle: color=red, points=(218, 1513) - (4630, 5774) - (6533, 9261)
+845. Triangle: color=red, points=(5774, 9909) - (8526, 3140) - (3178, 2921)
+846. Circle: color=yellow, center=(9454, 7697), radius=8165
+847. Circle: color=red, center=(1950, 2836), radius=2005
+848. Circle: color=light blue, center=(6218, 1418), radius=4331
+849. Rectangle: color=orange, top-left=(6583, 1815), bottom-right=(6405, 4166)
+850. Circle: color=green, center=(4405, 8793), radius=2548
+851. Circle: color=red, center=(8923, 6050), radius=6665
+852. Circle: color=green, center=(5271, 6229), radius=7967
+853. Triangle: color=red, points=(2782, 7110) - (516, 340) - (9307, 4116)
+854. Rectangle: color=purple, top-left=(7849, 9953), bottom-right=(7896, 4150)
+855. Rectangle: color=green, top-left=(2758, 5718), bottom-right=(6494, 8167)
+856. Triangle: color=red, points=(3057, 2238) - (7817, 443) - (4796, 4117)
+857. Rectangle: color=light blue, top-left=(9026, 4532), bottom-right=(3674, 9579)
+858. Triangle: color=red, points=(4614, 4932) - (6021, 6631) - (6104, 5739)
+859. Triangle: color=red, points=(7036, 2183) - (493, 2085) - (278, 8112)
+860. Triangle: color=red, points=(800, 5973) - (7710, 8127) - (4020, 4113)
+861. Circle: color=orange, center=(6780, 4453), radius=6255
+862. Triangle: color=red, points=(3520, 1641) - (2834, 3801) - (8395, 465)
+863. Triangle: color=red, points=(7413, 9012) - (4542, 330) - (1372, 7107)
+864. Triangle: color=red, points=(2725, 3742) - (4769, 9163) - (2281, 3335)
+865. Triangle: color=red, points=(2328, 3322) - (9448, 8460) - (2728, 1201)
+866. Triangle: color=red, points=(1149, 7622) - (3137, 9429) - (8119, 725)
+867. Circle: color=red, center=(8316, 2200), radius=8035
+868. Circle: color=green, center=(5511, 4226), radius=853
+869. Triangle: color=red, points=(5144, 5250) - (8248, 6678) - (170, 7450)
+870. Triangle: color=red, points=(1225, 138) - (5074, 8202) - (5574, 5618)
+871. Triangle: color=red, points=(7567, 9620) - (719, 8771) - (8537, 9734)
+872. Triangle: color=red, points=(7454, 4707) - (7032, 8275) - (553, 9698)
+873. Triangle: color=red, points=(28, 8499) - (2369, 7958) - (5046, 8360)
+874. Triangle: color=red, points=(3539, 134) - (7435, 4669) - (9447, 6999)
+875. Circle: color=blue, center=(3680, 9452), radius=7336
+876. Rectangle: color=light blue, top-left=(7786, 640), bottom-right=(2144, 2302)
+877. Circle: color=yellow, center=(131, 4640), radius=1543
+878. Rectangle: color=orange, top-left=(6869, 2603), bottom-right=(5436, 6118)
+879. Rectangle: color=blue, top-left=(3864, 3074), bottom-right=(2152, 2227)
+880. Circle: color=yellow, center=(5963, 8149), radius=846
+881. Triangle: color=red, points=(3264, 8332) - (5130, 6850) - (3078, 4738)
+882. Circle: color=green, center=(7219, 5100), radius=9088
+883. Rectangle: color=yellow, top-left=(2170, 5559), bottom-right=(6693, 2542)
+884. Rectangle: color=purple, top-left=(3365, 2424), bottom-right=(6874, 518)
+885. Triangle: color=red, points=(823, 3463) - (897, 4428) - (8051, 811)
+886. Rectangle: color=orange, top-left=(6588, 9794), bottom-right=(9844, 8455)
+887. Triangle: color=red, points=(4104, 7021) - (7779, 8107) - (3280, 1614)
+888. Circle: color=green, center=(6866, 3987), radius=42
+889. Circle: color=orange, center=(9465, 1153), radius=1095
+890. Triangle: color=red, points=(9797, 4691) - (4118, 6109) - (2055, 499)
+891. Triangle: color=red, points=(7302, 813) - (8244, 5817) - (7109, 9372)
+892. Circle: color=red, center=(3267, 3428), radius=3962
+893. Triangle: color=red, points=(508, 2994) - (171, 4766) - (5709, 4720)
+894. Rectangle: color=yellow, top-left=(6012, 4304), bottom-right=(5843, 7960)
+895. Rectangle: color=yellow, top-left=(2248, 9811), bottom-right=(6093, 1095)
+896. Rectangle: color=green, top-left=(9558, 7898), bottom-right=(8315, 9653)
+897. Circle: color=yellow, center=(9110, 8928), radius=6969
+898. Triangle: color=red, points=(5681, 5653) - (5335, 6539) - (9209, 3362)
+899. Rectangle: color=orange, top-left=(238, 6660), bottom-right=(9875, 6676)
+900. Triangle: color=red, points=(8585, 9983) - (7004, 6508) - (627, 1600)
+901. Rectangle: color=light blue, top-left=(4416, 1824), bottom-right=(9584, 84)
+902. Triangle: color=red, points=(7244, 2915) - (4924, 5488) - (6766, 3936)
+903. Circle: color=green, center=(7369, 2913), radius=8892
+904. Rectangle: color=blue, top-left=(1906, 599), bottom-right=(8392, 6138)
+905. Circle: color=yellow, center=(8363, 2978), radius=5859
+906. Rectangle: color=blue, top-left=(9408, 5490), bottom-right=(1875, 4296)
+907. Circle: color=green, center=(7755, 4324), radius=2030
+908. Triangle: color=red, points=(1442, 1640) - (9906, 3620) - (1596, 7686)
+909. Rectangle: color=light blue, top-left=(2894, 5021), bottom-right=(8505, 1430)
+910. Triangle: color=red, points=(2407, 9509) - (8279, 178) - (4824, 9765)
+911. Circle: color=purple, center=(3584, 3947), radius=3633
+912. Circle: color=green, center=(9130, 3257), radius=6936
+913. Circle: color=purple, center=(6357, 1944), radius=5683
+914. Triangle: color=red, points=(4191, 7700) - (4553, 805) - (9125, 986)
+915. Circle: color=purple, center=(2714, 6739), radius=5282
+916. Rectangle: color=purple, top-left=(8969, 7901), bottom-right=(8184, 3708)
+917. Rectangle: color=purple, top-left=(5648, 2111), bottom-right=(6968, 4429)
+918. Triangle: color=red, points=(9360, 5385) - (5154, 169) - (3648, 4612)
+919. Triangle: color=red, points=(1680, 6018) - (3567, 4924) - (3257, 4294)
+920. Circle: color=light blue, center=(6739, 339), radius=1108
+921. Triangle: color=red, points=(3017, 5458) - (9620, 6010) - (8491, 5323)
+922. Triangle: color=red, points=(1841, 457) - (3945, 7392) - (2574, 1513)
+923. Triangle: color=red, points=(4689, 2646) - (2742, 8784) - (3458, 88)
+924. Circle: color=purple, center=(1091, 8304), radius=10
+925. Triangle: color=red, points=(6340, 6137) - (2512, 9115) - (5208, 1938)
+926. Triangle: color=red, points=(7517, 8605) - (3593, 4291) - (9227, 9807)
+927. Circle: color=yellow, center=(5047, 6965), radius=4592
+928. Triangle: color=red, points=(5751, 4354) - (9052, 1204) - (4077, 9406)
+929. Rectangle: color=yellow, top-left=(5251, 3700), bottom-right=(4024, 7273)
+930. Circle: color=orange, center=(5014, 9120), radius=3406
+931. Rectangle: color=purple, top-left=(2806, 3618), bottom-right=(54, 5497)
+932. Circle: color=light blue, center=(4383, 9751), radius=111
+933. Triangle: color=red, points=(2843, 1053) - (7559, 6069) - (599, 8059)
+934. Rectangle: color=blue, top-left=(1391, 1986), bottom-right=(1935, 7217)
+935. Rectangle: color=blue, top-left=(1742, 3702), bottom-right=(4726, 8079)
+936. Triangle: color=red, points=(4158, 6876) - (8445, 2074) - (1482, 9596)
+937. Circle: color=blue, center=(1768, 9937), radius=7093
+938. Rectangle: color=purple, top-left=(6118, 8189), bottom-right=(9501, 4987)
+939. Rectangle: color=light blue, top-left=(7519, 8502), bottom-right=(5932, 1213)
+940. Triangle: color=red, points=(9784, 5939) - (9710, 8479) - (9124, 1416)
+941. Triangle: color=red, points=(91, 8429) - (7665, 1216) - (451, 9730)
+942. Rectangle: color=light blue, top-left=(1986, 84), bottom-right=(5196, 5404)
+943. Rectangle: color=purple, top-left=(5317, 3676), bottom-right=(8832, 64)
+944. Triangle: color=red, points=(9071, 7880) - (6333, 3284) - (6977, 4278)
+945. Rectangle: color=red, top-left=(9945, 3748), bottom-right=(1906, 899)
+946. Circle: color=blue, center=(6687, 4861), radius=9347
+947. Triangle: color=red, points=(9228, 1179) - (4414, 7054) - (4810, 512)
+948. Rectangle: color=light blue, top-left=(7869, 2034), bottom-right=(8939, 3607)
+949. Rectangle: color=light blue, top-left=(8288, 9800), bottom-right=(5455, 8084)
+950. Triangle: color=red, points=(271, 1701) - (2082, 6414) - (1763, 7206)
+951. Rectangle: color=red, top-left=(2071, 1491), bottom-right=(5718, 8356)
+952. Rectangle: color=purple, top-left=(9186, 246), bottom-right=(9295, 9754)
+953. Circle: color=light blue, center=(6413, 6649), radius=237
+954. Rectangle: color=light blue, top-left=(8295, 1698), bottom-right=(4469, 6552)
+955. Circle: color=orange, center=(5961, 8308), radius=1999
+956. Triangle: color=red, points=(6192, 2515) - (9192, 3324) - (3111, 8374)
+957. Triangle: color=red, points=(1645, 6987) - (6028, 1748) - (1898, 7695)
+958. Triangle: color=red, points=(7178, 6861) - (5183, 4962) - (3064, 609)
+959. Circle: color=green, center=(7433, 6768), radius=7465
+960. Circle: color=yellow, center=(3425, 874), radius=3694
+961. Triangle: color=red, points=(4951, 3578) - (746, 1001) - (5005, 8453)
+962. Circle: color=light blue, center=(4150, 5090), radius=9201
+963. Triangle: color=red, points=(9794, 7863) - (3192, 667) - (1144, 6143)
+964. Circle: color=green, center=(1611, 9394), radius=3539
+965. Triangle: color=red, points=(5414, 2450) - (1154, 2313) - (1471, 9918)
+966. Circle: color=yellow, center=(9416, 7072), radius=7805
+967. Rectangle: color=light blue, top-left=(3103, 3751), bottom-right=(2531, 9474)
+968. Circle: color=light blue, center=(7890, 3278), radius=1961
+969. Circle: color=blue, center=(702, 8544), radius=7782
+970. Triangle: color=red, points=(9471, 4316) - (5267, 2105) - (6824, 6375)
+971. Circle: color=blue, center=(6397, 8372), radius=6083
+972. Circle: color=purple, center=(9005, 7843), radius=8000
+973. Circle: color=purple, center=(1924, 6220), radius=2934
+974. Rectangle: color=green, top-left=(4969, 4517), bottom-right=(6428, 2429)
+975. Circle: color=green, center=(9610, 8020), radius=160
+976. Circle: color=purple, center=(5574, 1958), radius=468
+977. Rectangle: color=blue, top-left=(7145, 9790), bottom-right=(1834, 5838)
+978. Circle: color=green, center=(1522, 5326), radius=1352
+979. Circle: color=red, center=(6486, 6322), radius=3017
+980. Triangle: color=red, points=(6502, 8455) - (4215, 3485) - (5008, 5060)
+981. Rectangle: color=green, top-left=(7499, 1940), bottom-right=(7459, 1660)
+982. Triangle: color=red, points=(8983, 4118) - (845, 644) - (7185, 5656)
+983. Circle: color=red, center=(7455, 3329), radius=7459
+984. Circle: color=light blue, center=(3292, 750), radius=78
+985. Circle: color=light blue, center=(534, 1129), radius=4638
+986. Rectangle: color=red, top-left=(9728, 2450), bottom-right=(6195, 5982)
+987. Circle: color=orange, center=(2228, 7671), radius=7377
+988. Triangle: color=red, points=(4680, 1179) - (5405, 6848) - (8204, 1780)
+989. Circle: color=purple, center=(3461, 8320), radius=1466
+990. Circle: color=green, center=(3911, 6280), radius=7443
+991. Circle: color=green, center=(170, 3915), radius=3176
+992. Rectangle: color=red, top-left=(6766, 6732), bottom-right=(9631, 102)
+993. Circle: color=blue, center=(2279, 1631), radius=2183
+994. Rectangle: color=green, top-left=(6734, 3227), bottom-right=(8237, 5401)
+995. Rectangle: color=green, top-left=(7094, 5375), bottom-right=(6057, 1690)
+996. Circle: color=blue, center=(1367, 1264), radius=9808
+997. Rectangle: color=light blue, top-left=(5294, 2102), bottom-right=(2980, 9065)
+998. Rectangle: color=green, top-left=(3420, 7734), bottom-right=(8321, 9036)
+999. Circle: color=light blue, center=(7806, 207), radius=2485
+1000. Triangle: color=red, points=(3275, 9291) - (2355, 5530) - (9083, 5211)
+Sorted:
+1. Rectangle: color=red, top-left=(9655, 9082), bottom-right=(4121, 1144)
+2. Rectangle: color=yellow, top-left=(8271, 9631), bottom-right=(3665, 1085)
+3. Rectangle: color=blue, top-left=(8823, 6573), bottom-right=(1782, 609)
+4. Rectangle: color=orange, top-left=(6147, 9997), bottom-right=(1292, 2013)
+5. Rectangle: color=yellow, top-left=(4622, 9760), bottom-right=(1825, 16)
+6. Rectangle: color=yellow, top-left=(9654, 9722), bottom-right=(3000, 4272)
+7. Rectangle: color=green, top-left=(5644, 7151), bottom-right=(926, 65)
+8. Rectangle: color=green, top-left=(9152, 6447), bottom-right=(3001, 1084)
+9. Rectangle: color=yellow, top-left=(8188, 8893), bottom-right=(2804, 2905)
+10. Rectangle: color=purple, top-left=(9371, 6315), bottom-right=(2842, 1479)
+11. Rectangle: color=yellow, top-left=(7958, 9883), bottom-right=(1849, 4960)
+12. Rectangle: color=purple, top-left=(6687, 9004), bottom-right=(626, 4063)
+13. Rectangle: color=red, top-left=(9945, 3748), bottom-right=(1906, 899)
+14. Rectangle: color=purple, top-left=(8210, 9880), bottom-right=(4583, 2713)
+15. Rectangle: color=blue, top-left=(8258, 5033), bottom-right=(2659, 199)
+16. Rectangle: color=yellow, top-left=(9824, 6104), bottom-right=(5289, 279)
+17. Rectangle: color=purple, top-left=(8738, 4524), bottom-right=(2632, 321)
+18. Rectangle: color=yellow, top-left=(7328, 9492), bottom-right=(1941, 4822)
+19. Rectangle: color=purple, top-left=(7200, 5338), bottom-right=(734, 1932)
+20. Rectangle: color=yellow, top-left=(3388, 8701), bottom-right=(2319, 59)
+21. Rectangle: color=orange, top-left=(8998, 8351), bottom-right=(3102, 4565)
+22. Rectangle: color=green, top-left=(7288, 9739), bottom-right=(6602, 851)
+23. Rectangle: color=purple, top-left=(9966, 6545), bottom-right=(4280, 2735)
+24. Rectangle: color=blue, top-left=(9942, 4966), bottom-right=(491, 4981)
+25. Rectangle: color=blue, top-left=(7145, 9790), bottom-right=(1834, 5838)
+26. Rectangle: color=purple, top-left=(8026, 2131), bottom-right=(764, 151)
+27. Rectangle: color=blue, top-left=(8050, 8345), bottom-right=(5165, 2095)
+28. Rectangle: color=purple, top-left=(8903, 9804), bottom-right=(4333, 5283)
+29. Rectangle: color=red, top-left=(6260, 7930), bottom-right=(2081, 3041)
+30. Rectangle: color=orange, top-left=(8222, 8587), bottom-right=(5100, 2771)
+31. Rectangle: color=light blue, top-left=(7519, 8502), bottom-right=(5932, 1213)
+32. Rectangle: color=blue, top-left=(9408, 5490), bottom-right=(1875, 4296)
+33. Rectangle: color=yellow, top-left=(4229, 9952), bottom-right=(168, 5352)
+34. Rectangle: color=light blue, top-left=(6583, 5090), bottom-right=(1638, 1446)
+35. Rectangle: color=green, top-left=(9018, 9125), bottom-right=(7413, 2472)
+36. Rectangle: color=red, top-left=(6793, 3117), bottom-right=(568, 1159)
+37. Rectangle: color=green, top-left=(9901, 6709), bottom-right=(6738, 1748)
+38. Rectangle: color=blue, top-left=(6033, 7269), bottom-right=(428, 4769)
+39. Rectangle: color=light blue, top-left=(1289, 9565), bottom-right=(1859, 1078)
+40. Rectangle: color=green, top-left=(9632, 4386), bottom-right=(2380, 3796)
+41. Rectangle: color=orange, top-left=(9098, 7375), bottom-right=(5449, 3218)
+42. Rectangle: color=green, top-left=(8721, 9062), bottom-right=(9243, 775)
+43. Rectangle: color=orange, top-left=(2983, 7431), bottom-right=(2438, 377)
+44. Rectangle: color=red, top-left=(9495, 7493), bottom-right=(7869, 1522)
+45. Rectangle: color=orange, top-left=(7754, 5794), bottom-right=(2268, 3815)
+46. Rectangle: color=yellow, top-left=(9443, 4836), bottom-right=(6127, 1062)
+47. Rectangle: color=blue, top-left=(1563, 8080), bottom-right=(1624, 1018)
+48. Rectangle: color=light blue, top-left=(7525, 3178), bottom-right=(1405, 2460)
+49. Rectangle: color=light blue, top-left=(3832, 5163), bottom-right=(1719, 561)
+50. Rectangle: color=yellow, top-left=(6238, 5804), bottom-right=(789, 4599)
+51. Rectangle: color=purple, top-left=(897, 9291), bottom-right=(2789, 784)
+52. Rectangle: color=yellow, top-left=(1739, 9678), bottom-right=(3865, 983)
+53. Rectangle: color=green, top-left=(7441, 5577), bottom-right=(4903, 1841)
+54. Rectangle: color=orange, top-left=(7933, 9551), bottom-right=(8794, 2572)
+55. Rectangle: color=light blue, top-left=(9084, 4986), bottom-right=(2542, 5472)
+56. Rectangle: color=red, top-left=(8193, 4132), bottom-right=(4530, 1841)
+57. Rectangle: color=red, top-left=(6617, 8039), bottom-right=(7744, 963)
+58. Rectangle: color=purple, top-left=(6703, 9566), bottom-right=(8792, 1591)
+59. Rectangle: color=purple, top-left=(7849, 9953), bottom-right=(7896, 4150)
+60. Rectangle: color=yellow, top-left=(4375, 5808), bottom-right=(1478, 2988)
+61. Rectangle: color=red, top-left=(2837, 4285), bottom-right=(731, 710)
+62. Rectangle: color=red, top-left=(9803, 7682), bottom-right=(9968, 1858)
+63. Rectangle: color=blue, top-left=(1329, 4998), bottom-right=(81, 623)
+64. Rectangle: color=green, top-left=(9360, 5352), bottom-right=(3026, 6105)
+65. Rectangle: color=yellow, top-left=(5718, 9620), bottom-right=(8415, 1343)
+66. Rectangle: color=blue, top-left=(9669, 2737), bottom-right=(4139, 2731)
+67. Rectangle: color=yellow, top-left=(6409, 8033), bottom-right=(1768, 7191)
+68. Rectangle: color=blue, top-left=(3906, 9283), bottom-right=(2, 7854)
+69. Rectangle: color=light blue, top-left=(2811, 7063), bottom-right=(2164, 2499)
+70. Rectangle: color=yellow, top-left=(5386, 6383), bottom-right=(4978, 1596)
+71. Rectangle: color=purple, top-left=(2586, 7000), bottom-right=(645, 3792)
+72. Rectangle: color=red, top-left=(6442, 6722), bottom-right=(3726, 4384)
+73. Rectangle: color=red, top-left=(5181, 7015), bottom-right=(1535, 5661)
+74. Rectangle: color=purple, top-left=(8969, 7901), bottom-right=(8184, 3708)
+75. Rectangle: color=yellow, top-left=(2248, 9811), bottom-right=(6093, 1095)
+76. Rectangle: color=light blue, top-left=(9912, 6534), bottom-right=(2201, 9413)
+77. Rectangle: color=orange, top-left=(8715, 4885), bottom-right=(4464, 4370)
+78. Rectangle: color=blue, top-left=(1241, 9470), bottom-right=(2044, 3928)
+79. Rectangle: color=purple, top-left=(8709, 4977), bottom-right=(1773, 7182)
+80. Rectangle: color=green, top-left=(7094, 5375), bottom-right=(6057, 1690)
+81. Rectangle: color=light blue, top-left=(1811, 7742), bottom-right=(4655, 180)
+82. Rectangle: color=blue, top-left=(7966, 758), bottom-right=(1731, 2294)
+83. Rectangle: color=yellow, top-left=(5182, 9989), bottom-right=(9219, 1300)
+84. Rectangle: color=yellow, top-left=(6847, 8404), bottom-right=(9486, 1157)
+85. Rectangle: color=light blue, top-left=(8288, 9800), bottom-right=(5455, 8084)
+86. Rectangle: color=purple, top-left=(4252, 8838), bottom-right=(3365, 5204)
+87. Rectangle: color=yellow, top-left=(3761, 9486), bottom-right=(6984, 1804)
+88. Rectangle: color=yellow, top-left=(2388, 8316), bottom-right=(5890, 439)
+89. Rectangle: color=orange, top-left=(9229, 5811), bottom-right=(3617, 7068)
+90. Rectangle: color=red, top-left=(7073, 3578), bottom-right=(3013, 3291)
+91. Rectangle: color=yellow, top-left=(53, 8368), bottom-right=(1622, 2512)
+92. Rectangle: color=yellow, top-left=(4501, 6165), bottom-right=(2348, 4153)
+93. Rectangle: color=purple, top-left=(4827, 6092), bottom-right=(2227, 4589)
+94. Rectangle: color=red, top-left=(5841, 9741), bottom-right=(6916, 4598)
+95. Rectangle: color=light blue, top-left=(6629, 7351), bottom-right=(3011, 6913)
+96. Rectangle: color=blue, top-left=(7544, 6157), bottom-right=(3804, 5853)
+97. Rectangle: color=light blue, top-left=(7786, 640), bottom-right=(2144, 2302)
+98. Rectangle: color=orange, top-left=(7687, 6965), bottom-right=(7495, 3201)
+99. Rectangle: color=purple, top-left=(4781, 5116), bottom-right=(2035, 3924)
+100. Rectangle: color=light blue, top-left=(8932, 6235), bottom-right=(4158, 7123)
+101. Rectangle: color=purple, top-left=(9279, 4034), bottom-right=(4981, 4448)
+102. Rectangle: color=red, top-left=(6766, 6732), bottom-right=(9631, 102)
+103. Rectangle: color=purple, top-left=(7262, 8526), bottom-right=(6043, 6010)
+104. Rectangle: color=orange, top-left=(4145, 6062), bottom-right=(2697, 3779)
+105. Rectangle: color=purple, top-left=(7139, 8696), bottom-right=(4542, 7571)
+106. Rectangle: color=purple, top-left=(8448, 1614), bottom-right=(1363, 5051)
+107. Rectangle: color=green, top-left=(7001, 1058), bottom-right=(1106, 3376)
+108. Rectangle: color=blue, top-left=(4577, 5946), bottom-right=(3078, 3881)
+109. Rectangle: color=purple, top-left=(9434, 3169), bottom-right=(3554, 5520)
+110. Rectangle: color=light blue, top-left=(8718, 1534), bottom-right=(6476, 284)
+111. Rectangle: color=green, top-left=(6844, 8170), bottom-right=(7964, 3604)
+112. Rectangle: color=blue, top-left=(1809, 4928), bottom-right=(3098, 226)
+113. Rectangle: color=blue, top-left=(7113, 3124), bottom-right=(5819, 1033)
+114. Rectangle: color=yellow, top-left=(6001, 9840), bottom-right=(3749, 8763)
+115. Rectangle: color=yellow, top-left=(8937, 8190), bottom-right=(4174, 9719)
+116. Rectangle: color=orange, top-left=(9671, 2736), bottom-right=(5652, 3659)
+117. Rectangle: color=orange, top-left=(3145, 5919), bottom-right=(4637, 1420)
+118. Rectangle: color=purple, top-left=(7425, 4385), bottom-right=(13, 8859)
+119. Rectangle: color=purple, top-left=(7075, 225), bottom-right=(4376, 108)
+120. Rectangle: color=blue, top-left=(1826, 8743), bottom-right=(3575, 4179)
+121. Rectangle: color=light blue, top-left=(8162, 6836), bottom-right=(7551, 4655)
+122. Rectangle: color=green, top-left=(2450, 5280), bottom-right=(3905, 1040)
+123. Rectangle: color=blue, top-left=(3864, 3074), bottom-right=(2152, 2227)
+124. Rectangle: color=red, top-left=(8258, 4615), bottom-right=(7467, 2933)
+125. Rectangle: color=yellow, top-left=(3977, 5906), bottom-right=(6993, 452)
+126. Rectangle: color=red, top-left=(5830, 9435), bottom-right=(5780, 7118)
+127. Rectangle: color=light blue, top-left=(8658, 7598), bottom-right=(6833, 7111)
+128. Rectangle: color=red, top-left=(5761, 3607), bottom-right=(2037, 5121)
+129. Rectangle: color=red, top-left=(2393, 7087), bottom-right=(5469, 1866)
+130. Rectangle: color=blue, top-left=(4412, 1248), bottom-right=(2906, 627)
+131. Rectangle: color=blue, top-left=(973, 7316), bottom-right=(5389, 853)
+132. Rectangle: color=green, top-left=(1440, 6954), bottom-right=(2621, 3754)
+133. Rectangle: color=red, top-left=(4994, 18), bottom-right=(553, 2457)
+134. Rectangle: color=green, top-left=(8154, 8860), bottom-right=(8960, 6056)
+135. Rectangle: color=yellow, top-left=(6824, 9231), bottom-right=(5310, 8818)
+136. Rectangle: color=red, top-left=(3576, 3271), bottom-right=(3626, 1315)
+137. Rectangle: color=purple, top-left=(3397, 1635), bottom-right=(2197, 1061)
+138. Rectangle: color=light blue, top-left=(4535, 8565), bottom-right=(3008, 8319)
+139. Rectangle: color=green, top-left=(502, 9562), bottom-right=(5757, 2544)
+140. Rectangle: color=purple, top-left=(8513, 4736), bottom-right=(5572, 6031)
+141. Rectangle: color=green, top-left=(4530, 1475), bottom-right=(4084, 359)
+142. Rectangle: color=orange, top-left=(1963, 7147), bottom-right=(4112, 3538)
+143. Rectangle: color=blue, top-left=(1836, 5300), bottom-right=(221, 5474)
+144. Rectangle: color=purple, top-left=(9879, 259), bottom-right=(5408, 3360)
+145. Rectangle: color=purple, top-left=(6826, 215), bottom-right=(2013, 3660)
+146. Rectangle: color=green, top-left=(5555, 5448), bottom-right=(2334, 7314)
+147. Rectangle: color=blue, top-left=(9850, 7346), bottom-right=(9197, 6659)
+148. Rectangle: color=red, top-left=(1968, 5048), bottom-right=(653, 5077)
+149. Rectangle: color=orange, top-left=(5088, 9840), bottom-right=(8480, 5184)
+150. Rectangle: color=green, top-left=(2053, 9315), bottom-right=(3376, 6729)
+151. Rectangle: color=purple, top-left=(8632, 187), bottom-right=(2111, 5541)
+152. Rectangle: color=green, top-left=(4599, 5333), bottom-right=(1728, 7069)
+153. Rectangle: color=purple, top-left=(8744, 3570), bottom-right=(8512, 2678)
+154. Rectangle: color=orange, top-left=(7449, 3835), bottom-right=(3942, 6397)
+155. Rectangle: color=purple, top-left=(2806, 3618), bottom-right=(54, 5497)
+156. Rectangle: color=yellow, top-left=(5970, 190), bottom-right=(3874, 1466)
+157. Rectangle: color=blue, top-left=(2805, 5874), bottom-right=(6918, 956)
+158. Rectangle: color=blue, top-left=(4691, 3125), bottom-right=(6886, 264)
+159. Rectangle: color=red, top-left=(271, 6334), bottom-right=(3895, 2080)
+160. Rectangle: color=green, top-left=(4969, 4517), bottom-right=(6428, 2429)
+161. Rectangle: color=red, top-left=(4383, 7113), bottom-right=(4434, 6460)
+162. Rectangle: color=yellow, top-left=(6763, 7874), bottom-right=(9518, 4658)
+163. Rectangle: color=light blue, top-left=(7723, 9447), bottom-right=(9363, 7455)
+164. Rectangle: color=light blue, top-left=(1348, 8985), bottom-right=(2697, 7298)
+165. Rectangle: color=green, top-left=(7499, 1940), bottom-right=(7459, 1660)
+166. Rectangle: color=light blue, top-left=(9026, 4532), bottom-right=(3674, 9579)
+167. Rectangle: color=yellow, top-left=(4792, 3353), bottom-right=(3445, 4406)
+168. Rectangle: color=green, top-left=(9141, 3951), bottom-right=(7573, 5238)
+169. Rectangle: color=red, top-left=(7783, 9801), bottom-right=(7811, 9625)
+170. Rectangle: color=red, top-left=(9373, 9574), bottom-right=(9677, 9151)
+171. Rectangle: color=orange, top-left=(3799, 5913), bottom-right=(6100, 3504)
+172. Rectangle: color=purple, top-left=(5317, 3676), bottom-right=(8832, 64)
+173. Rectangle: color=orange, top-left=(5022, 7855), bottom-right=(5931, 6856)
+174. Rectangle: color=orange, top-left=(3356, 9830), bottom-right=(3355, 9762)
+175. Rectangle: color=red, top-left=(7149, 9815), bottom-right=(7463, 9480)
+176. Rectangle: color=purple, top-left=(7945, 6191), bottom-right=(9724, 4409)
+177. Rectangle: color=red, top-left=(9728, 2450), bottom-right=(6195, 5982)
+178. Circle: color=purple, center=(1091, 8304), radius=10
+179. Rectangle: color=orange, top-left=(2828, 5370), bottom-right=(1627, 6653)
+180. Rectangle: color=yellow, top-left=(6613, 9990), bottom-right=(9498, 7197)
+181. Circle: color=blue, center=(2103, 4454), radius=31
+182. Rectangle: color=purple, top-left=(6141, 3838), bottom-right=(9947, 160)
+183. Circle: color=green, center=(6866, 3987), radius=42
+184. Circle: color=orange, center=(7447, 3136), radius=47
+185. Circle: color=orange, center=(5670, 7370), radius=50
+186. Rectangle: color=red, top-left=(4117, 1965), bottom-right=(4532, 1725)
+187. Rectangle: color=purple, top-left=(6118, 8189), bottom-right=(9501, 4987)
+188. Rectangle: color=red, top-left=(8131, 7203), bottom-right=(7718, 7805)
+189. Rectangle: color=blue, top-left=(7524, 3608), bottom-right=(8766, 2591)
+190. Circle: color=light blue, center=(3292, 750), radius=78
+191. Rectangle: color=yellow, top-left=(6494, 8179), bottom-right=(8308, 6612)
+192. Triangle: color=red, points=(6861, 4466) - (6966, 4610) - (7073, 4542)
+193. Rectangle: color=light blue, top-left=(3627, 7387), bottom-right=(6289, 4990)
+194. Circle: color=green, center=(3222, 5496), radius=86
+195. Rectangle: color=green, top-left=(9448, 5100), bottom-right=(5735, 9138)
+196. Circle: color=purple, center=(9422, 6694), radius=110
+197. Circle: color=light blue, center=(4383, 9751), radius=111
+198. Circle: color=orange, center=(3864, 581), radius=140
+199. Rectangle: color=yellow, top-left=(6471, 3634), bottom-right=(1883, 8663)
+200. Circle: color=green, center=(9610, 8020), radius=160
+201. Rectangle: color=green, top-left=(9558, 7898), bottom-right=(8315, 9653)
+202. Rectangle: color=blue, top-left=(4192, 9640), bottom-right=(8988, 5394)
+203. Rectangle: color=green, top-left=(7428, 3216), bottom-right=(4255, 6967)
+204. Rectangle: color=yellow, top-left=(7091, 760), bottom-right=(3275, 5205)
+205. Rectangle: color=yellow, top-left=(6953, 2031), bottom-right=(4364, 5337)
+206. Circle: color=light blue, center=(6413, 6649), radius=237
+207. Circle: color=blue, center=(6735, 8098), radius=240
+208. Circle: color=blue, center=(5177, 5656), radius=275
+209. Circle: color=red, center=(4186, 5723), radius=277
+210. Circle: color=blue, center=(5603, 5198), radius=283
+211. Circle: color=green, center=(9761, 2422), radius=284
+212. Circle: color=orange, center=(5442, 9518), radius=303
+213. Rectangle: color=light blue, top-left=(7173, 7765), bottom-right=(8837, 7074)
+214. Rectangle: color=blue, top-left=(5876, 9037), bottom-right=(7212, 8676)
+215. Rectangle: color=light blue, top-left=(8295, 1698), bottom-right=(4469, 6552)
+216. Rectangle: color=purple, top-left=(2292, 9881), bottom-right=(9236, 3998)
+217. Rectangle: color=light blue, top-left=(6732, 4818), bottom-right=(6191, 6431)
+218. Rectangle: color=light blue, top-left=(3020, 7450), bottom-right=(1933, 9611)
+219. Circle: color=light blue, center=(4858, 8822), radius=355
+220. Rectangle: color=red, top-left=(6382, 134), bottom-right=(2088, 5546)
+221. Rectangle: color=yellow, top-left=(1607, 9759), bottom-right=(2893, 9597)
+222. Circle: color=purple, center=(8472, 6441), radius=359
+223. Circle: color=purple, center=(1766, 44), radius=360
+224. Rectangle: color=green, top-left=(9706, 4537), bottom-right=(9271, 6108)
+225. Circle: color=orange, center=(4897, 9597), radius=372
+226. Rectangle: color=green, top-left=(8190, 251), bottom-right=(3180, 6535)
+227. Rectangle: color=red, top-left=(576, 6389), bottom-right=(2558, 5738)
+228. Rectangle: color=green, top-left=(7992, 7266), bottom-right=(9594, 7020)
+229. Rectangle: color=light blue, top-left=(3386, 2320), bottom-right=(3049, 4073)
+230. Circle: color=purple, center=(5574, 1958), radius=468
+231. Rectangle: color=purple, top-left=(7775, 2930), bottom-right=(9978, 2226)
+232. Rectangle: color=yellow, top-left=(2170, 5559), bottom-right=(6693, 2542)
+233. Rectangle: color=red, top-left=(5067, 7332), bottom-right=(5197, 8721)
+234. Triangle: color=red, points=(4268, 5457) - (5254, 5699) - (5771, 5639)
+235. Rectangle: color=red, top-left=(1816, 8351), bottom-right=(2257, 9473)
+236. Rectangle: color=purple, top-left=(3365, 2424), bottom-right=(6874, 518)
+237. Circle: color=orange, center=(584, 2337), radius=520
+238. Rectangle: color=purple, top-left=(3658, 6449), bottom-right=(6023, 5766)
+239. Rectangle: color=green, top-left=(2116, 6503), bottom-right=(5528, 4790)
+240. Rectangle: color=yellow, top-left=(5346, 3682), bottom-right=(6451, 4420)
+241. Circle: color=red, center=(1763, 7493), radius=587
+242. Rectangle: color=red, top-left=(6666, 1396), bottom-right=(4623, 5319)
+243. Circle: color=blue, center=(2973, 5779), radius=601
+244. Circle: color=light blue, center=(9435, 1572), radius=605
+245. Rectangle: color=orange, top-left=(6588, 9794), bottom-right=(9844, 8455)
+246. Rectangle: color=red, top-left=(8435, 5828), bottom-right=(8674, 7528)
+247. Rectangle: color=purple, top-left=(8368, 3073), bottom-right=(4955, 8427)
+248. Circle: color=green, center=(2756, 8915), radius=619
+249. Circle: color=green, center=(6862, 60), radius=635
+250. Rectangle: color=light blue, top-left=(5576, 2323), bottom-right=(7705, 2192)
+251. Rectangle: color=light blue, top-left=(2894, 5021), bottom-right=(8505, 1430)
+252. Rectangle: color=orange, top-left=(1646, 872), bottom-right=(2244, 2296)
+253. Circle: color=purple, center=(4793, 985), radius=649
+254. Circle: color=yellow, center=(2156, 3296), radius=655
+255. Circle: color=green, center=(2322, 2503), radius=659
+256. Rectangle: color=red, top-left=(4309, 2050), bottom-right=(6926, 1504)
+257. Triangle: color=red, points=(6594, 3911) - (6438, 5327) - (6012, 5868)
+258. Rectangle: color=orange, top-left=(6869, 2603), bottom-right=(5436, 6118)
+259. Rectangle: color=light blue, top-left=(4142, 9218), bottom-right=(8031, 7491)
+260. Rectangle: color=orange, top-left=(6583, 1815), bottom-right=(6405, 4166)
+261. Circle: color=light blue, center=(370, 8079), radius=695
+262. Triangle: color=red, points=(7310, 8821) - (5571, 8738) - (5222, 8294)
+263. Rectangle: color=orange, top-left=(5379, 757), bottom-right=(4247, 4164)
+264. Circle: color=green, center=(1461, 3422), radius=735
+265. Rectangle: color=yellow, top-left=(5251, 3700), bottom-right=(4024, 7273)
+266. Rectangle: color=light blue, top-left=(3873, 8373), bottom-right=(6841, 7776)
+267. Circle: color=red, center=(7446, 8983), radius=756
+268. Rectangle: color=red, top-left=(2444, 8517), bottom-right=(8049, 5294)
+269. Triangle: color=red, points=(4614, 4932) - (6021, 6631) - (6104, 5739)
+270. Rectangle: color=yellow, top-left=(134, 6181), bottom-right=(463, 8303)
+271. Rectangle: color=yellow, top-left=(4247, 5556), bottom-right=(5299, 6989)
+272. Circle: color=orange, center=(7174, 7988), radius=792
+273. Circle: color=green, center=(263, 6896), radius=811
+274. Triangle: color=red, points=(3973, 8768) - (1670, 9722) - (2513, 9754)
+275. Rectangle: color=orange, top-left=(687, 8574), bottom-right=(5152, 6663)
+276. Triangle: color=red, points=(362, 6281) - (812, 5307) - (1527, 7536)
+277. Rectangle: color=light blue, top-left=(875, 5121), bottom-right=(4260, 4336)
+278. Triangle: color=red, points=(1680, 6018) - (3567, 4924) - (3257, 4294)
+279. Circle: color=yellow, center=(7445, 8127), radius=831
+280. Rectangle: color=light blue, top-left=(7869, 2034), bottom-right=(8939, 3607)
+281. Circle: color=yellow, center=(5963, 8149), radius=846
+282. Circle: color=green, center=(5511, 4226), radius=853
+283. Rectangle: color=green, top-left=(5727, 4476), bottom-right=(7115, 5788)
+284. Triangle: color=red, points=(3893, 4916) - (1894, 6427) - (1834, 6703)
+285. Rectangle: color=purple, top-left=(588, 369), bottom-right=(1480, 2272)
+286. Circle: color=light blue, center=(1714, 3658), radius=899
+287. Circle: color=red, center=(4435, 2293), radius=904
+288. Rectangle: color=purple, top-left=(334, 1306), bottom-right=(3462, 1045)
+289. Rectangle: color=green, top-left=(2102, 9583), bottom-right=(5773, 8786)
+290. Triangle: color=red, points=(1668, 7290) - (701, 9830) - (1142, 7304)
+291. Rectangle: color=blue, top-left=(6045, 1249), bottom-right=(3321, 6920)
+292. Circle: color=blue, center=(8155, 7080), radius=951
+293. Rectangle: color=green, top-left=(3087, 9687), bottom-right=(8193, 7618)
+294. Triangle: color=red, points=(3754, 6273) - (2973, 5466) - (1211, 4529)
+295. Circle: color=red, center=(323, 7978), radius=992
+296. Triangle: color=red, points=(3032, 8155) - (67, 9165) - (417, 9229)
+297. Triangle: color=red, points=(5151, 3002) - (4344, 1140) - (6601, 1440)
+298. Rectangle: color=blue, top-left=(3336, 2855), bottom-right=(3776, 5664)
+299. Rectangle: color=purple, top-left=(2250, 3926), bottom-right=(4849, 4578)
+300. Triangle: color=red, points=(1479, 876) - (2692, 1758) - (274, 2897)
+301. Circle: color=purple, center=(4246, 4452), radius=1040
+302. Triangle: color=red, points=(2054, 1944) - (2336, 1851) - (4984, 3316)
+303. Rectangle: color=red, top-left=(9560, 4091), bottom-right=(9910, 7020)
+304. Rectangle: color=light blue, top-left=(8541, 4485), bottom-right=(7101, 9212)
+305. Rectangle: color=purple, top-left=(4793, 3989), bottom-right=(4984, 7092)
+306. Triangle: color=red, points=(1241, 4231) - (241, 4593) - (3194, 3138)
+307. Rectangle: color=yellow, top-left=(5302, 6093), bottom-right=(5117, 9617)
+308. Circle: color=orange, center=(3001, 1019), radius=1065
+309. Circle: color=green, center=(2569, 1708), radius=1069
+310. Rectangle: color=blue, top-left=(3669, 3061), bottom-right=(4717, 5415)
+311. Rectangle: color=light blue, top-left=(4416, 1824), bottom-right=(9584, 84)
+312. Circle: color=orange, center=(9465, 1153), radius=1095
+313. Circle: color=light blue, center=(6739, 339), radius=1108
+314. Rectangle: color=light blue, top-left=(2033, 9257), bottom-right=(8993, 5784)
+315. Rectangle: color=yellow, top-left=(6012, 4304), bottom-right=(5843, 7960)
+316. Triangle: color=red, points=(7244, 2915) - (4924, 5488) - (6766, 3936)
+317. Triangle: color=red, points=(733, 4732) - (2243, 4539) - (4037, 3646)
+318. Rectangle: color=green, top-left=(4330, 2185), bottom-right=(5481, 4557)
+319. Rectangle: color=blue, top-left=(2863, 9731), bottom-right=(9105, 7046)
+320. Rectangle: color=purple, top-left=(5387, 3174), bottom-right=(4706, 7420)
+321. Triangle: color=red, points=(5125, 2110) - (6375, 5349) - (5693, 2398)
+322. Triangle: color=red, points=(7780, 6913) - (9417, 9910) - (9774, 9703)
+323. Rectangle: color=purple, top-left=(5648, 2111), bottom-right=(6968, 4429)
+324. Rectangle: color=green, top-left=(6734, 3227), bottom-right=(8237, 5401)
+325. Circle: color=blue, center=(7934, 9052), radius=1172
+326. Rectangle: color=blue, top-left=(1137, 5895), bottom-right=(3542, 7217)
+327. Triangle: color=red, points=(6541, 2692) - (8266, 1016) - (5797, 178)
+328. Circle: color=yellow, center=(2902, 4554), radius=1221
+329. Rectangle: color=yellow, top-left=(2152, 1139), bottom-right=(3131, 4008)
+330. Triangle: color=red, points=(6371, 1226) - (5406, 2732) - (8295, 3458)
+331. Circle: color=blue, center=(869, 6015), radius=1231
+332. Circle: color=green, center=(369, 104), radius=1235
+333. Triangle: color=red, points=(8056, 2713) - (6728, 3816) - (9435, 1009)
+334. Rectangle: color=yellow, top-left=(4123, 1334), bottom-right=(6936, 2453)
+335. Rectangle: color=red, top-left=(3548, 4120), bottom-right=(6188, 5442)
+336. Rectangle: color=light blue, top-left=(2077, 1135), bottom-right=(5988, 1225)
+337. Triangle: color=red, points=(459, 4362) - (1224, 5982) - (3436, 6842)
+338. Triangle: color=red, points=(6601, 478) - (6503, 1053) - (9859, 2624)
+339. Triangle: color=red, points=(1950, 2977) - (1379, 4469) - (4161, 5754)
+340. Triangle: color=red, points=(5577, 5327) - (7951, 3868) - (4421, 5991)
+341. Rectangle: color=purple, top-left=(3914, 5204), bottom-right=(3804, 9440)
+342. Rectangle: color=light blue, top-left=(7895, 3380), bottom-right=(8374, 7030)
+343. Triangle: color=red, points=(3517, 8209) - (1030, 4924) - (2509, 6460)
+344. Triangle: color=red, points=(3371, 4787) - (6418, 2623) - (6117, 2032)
+345. Triangle: color=red, points=(7192, 4867) - (7740, 4914) - (6059, 8493)
+346. Circle: color=orange, center=(2157, 6032), radius=1322
+347. Circle: color=green, center=(1308, 2263), radius=1329
+348. Rectangle: color=light blue, top-left=(2165, 5639), bottom-right=(6868, 5119)
+349. Triangle: color=red, points=(7731, 3426) - (6873, 5724) - (4574, 4800)
+350. Triangle: color=red, points=(2450, 2318) - (4575, 5139) - (1537, 3231)
+351. Triangle: color=red, points=(7101, 5493) - (4731, 4933) - (8897, 5560)
+352. Triangle: color=red, points=(6049, 5871) - (5442, 5106) - (8898, 3529)
+353. Circle: color=green, center=(1522, 5326), radius=1352
+354. Triangle: color=red, points=(4766, 7198) - (2234, 6994) - (520, 7073)
+355. Circle: color=green, center=(4888, 9760), radius=1355
+356. Triangle: color=red, points=(5642, 3130) - (2329, 658) - (3911, 2963)
+357. Rectangle: color=yellow, top-left=(1364, 8944), bottom-right=(5195, 9515)
+358. Triangle: color=red, points=(3685, 4536) - (3439, 8672) - (2859, 8623)
+359. Rectangle: color=red, top-left=(6681, 1734), bottom-right=(9332, 3543)
+360. Triangle: color=red, points=(3264, 8332) - (5130, 6850) - (3078, 4738)
+361. Rectangle: color=blue, top-left=(2508, 6077), bottom-right=(6759, 6294)
+362. Triangle: color=red, points=(5669, 5755) - (7199, 7055) - (9267, 8428)
+363. Circle: color=light blue, center=(8649, 1425), radius=1432
+364. Circle: color=purple, center=(3461, 8320), radius=1466
+365. Rectangle: color=green, top-left=(350, 3052), bottom-right=(1745, 6284)
+366. Triangle: color=red, points=(1740, 2093) - (2733, 6478) - (2684, 3042)
+367. Rectangle: color=light blue, top-left=(5294, 2102), bottom-right=(2980, 9065)
+368. Triangle: color=red, points=(8855, 9122) - (9307, 6907) - (9513, 4495)
+369. Triangle: color=red, points=(4051, 442) - (1753, 4438) - (2072, 2803)
+370. Triangle: color=red, points=(5895, 4657) - (6547, 1137) - (4213, 4619)
+371. Rectangle: color=orange, top-left=(3239, 1179), bottom-right=(8524, 623)
+372. Circle: color=orange, center=(7791, 8456), radius=1507
+373. Rectangle: color=orange, top-left=(1713, 5008), bottom-right=(4618, 6840)
+374. Rectangle: color=purple, top-left=(3589, 7278), bottom-right=(7611, 8022)
+375. Rectangle: color=yellow, top-left=(5894, 5469), bottom-right=(6935, 9210)
+376. Triangle: color=red, points=(1867, 5207) - (4305, 7890) - (3502, 4020)
+377. Rectangle: color=orange, top-left=(1175, 4380), bottom-right=(5322, 5047)
+378. Rectangle: color=yellow, top-left=(9254, 4862), bottom-right=(9035, 9900)
+379. Circle: color=purple, center=(2284, 6560), radius=1536
+380. Rectangle: color=purple, top-left=(1880, 9142), bottom-right=(8795, 7054)
+381. Circle: color=yellow, center=(131, 4640), radius=1543
+382. Rectangle: color=yellow, top-left=(4753, 4721), bottom-right=(6736, 7653)
+383. Rectangle: color=green, top-left=(6055, 7947), bottom-right=(9479, 9458)
+384. Triangle: color=red, points=(6215, 4608) - (9334, 2175) - (8112, 5758)
+385. Rectangle: color=light blue, top-left=(1580, 7936), bottom-right=(6804, 7703)
+386. Triangle: color=red, points=(1573, 905) - (2101, 196) - (6364, 87)
+387. Triangle: color=red, points=(6206, 1056) - (6990, 3639) - (3269, 3132)
+388. Triangle: color=red, points=(5282, 5994) - (3726, 7613) - (7298, 4064)
+389. Triangle: color=red, points=(5360, 7350) - (3333, 6755) - (661, 8439)
+390. Triangle: color=red, points=(2086, 7232) - (1695, 3521) - (4342, 6549)
+391. Triangle: color=red, points=(28, 8499) - (2369, 7958) - (5046, 8360)
+392. Triangle: color=red, points=(8447, 4432) - (3961, 2749) - (5264, 2156)
+393. Triangle: color=red, points=(5681, 5653) - (5335, 6539) - (9209, 3362)
+394. Triangle: color=red, points=(3789, 6150) - (1861, 4707) - (1275, 8815)
+395. Rectangle: color=light blue, top-left=(3103, 3751), bottom-right=(2531, 9474)
+396. Triangle: color=red, points=(3891, 3334) - (2070, 900) - (1757, 5279)
+397. Triangle: color=red, points=(2740, 6495) - (7512, 7994) - (5542, 8506)
+398. Triangle: color=red, points=(7157, 5256) - (8399, 1933) - (4799, 3118)
+399. Triangle: color=red, points=(9071, 7880) - (6333, 3284) - (6977, 4278)
+400. Rectangle: color=blue, top-left=(7840, 733), bottom-right=(9301, 4628)
+401. Triangle: color=red, points=(9061, 5514) - (6484, 5662) - (8699, 9341)
+402. Rectangle: color=red, top-left=(1788, 5931), bottom-right=(7463, 5674)
+403. Rectangle: color=light blue, top-left=(1497, 6361), bottom-right=(3522, 9761)
+404. Circle: color=blue, center=(8164, 2023), radius=1728
+405. Circle: color=red, center=(1488, 2240), radius=1731
+406. Triangle: color=red, points=(4750, 6319) - (7880, 6514) - (5972, 9941)
+407. Rectangle: color=blue, top-left=(1744, 9018), bottom-right=(7803, 8403)
+408. Triangle: color=red, points=(5839, 3663) - (9485, 1258) - (5687, 4925)
+409. Triangle: color=red, points=(6502, 8455) - (4215, 3485) - (5008, 5060)
+410. Triangle: color=red, points=(4768, 6049) - (886, 2269) - (2323, 4825)
+411. Triangle: color=red, points=(6063, 5061) - (8322, 9499) - (9022, 6844)
+412. Circle: color=red, center=(1155, 3643), radius=1784
+413. Triangle: color=red, points=(4945, 2673) - (1726, 4185) - (5255, 6283)
+414. Rectangle: color=green, top-left=(529, 2319), bottom-right=(1221, 7278)
+415. Rectangle: color=green, top-left=(2037, 286), bottom-right=(1130, 6855)
+416. Triangle: color=red, points=(4958, 8300) - (7845, 5186) - (3212, 7511)
+417. Rectangle: color=light blue, top-left=(622, 8098), bottom-right=(9327, 5111)
+418. Triangle: color=red, points=(6709, 5855) - (2333, 9434) - (3779, 7372)
+419. Triangle: color=red, points=(3125, 6302) - (4918, 8479) - (7824, 5804)
+420. Circle: color=yellow, center=(2832, 1538), radius=1834
+421. Triangle: color=red, points=(7488, 937) - (5882, 2651) - (3221, 4810)
+422. Rectangle: color=blue, top-left=(1391, 1986), bottom-right=(1935, 7217)
+423. Triangle: color=red, points=(30, 5124) - (4316, 2455) - (2604, 5897)
+424. Triangle: color=red, points=(271, 1701) - (2082, 6414) - (1763, 7206)
+425. Circle: color=light blue, center=(7134, 121), radius=1849
+426. Triangle: color=red, points=(9898, 2117) - (9466, 1697) - (4885, 4768)
+427. Triangle: color=red, points=(6007, 1353) - (2580, 4989) - (2992, 1219)
+428. Triangle: color=red, points=(7297, 7450) - (3779, 8181) - (4621, 4237)
+429. Rectangle: color=green, top-left=(7786, 3210), bottom-right=(8532, 8375)
+430. Rectangle: color=purple, top-left=(1270, 938), bottom-right=(5725, 2404)
+431. Rectangle: color=orange, top-left=(761, 732), bottom-right=(6377, 1069)
+432. Triangle: color=red, points=(3497, 4185) - (7905, 6748) - (6484, 8055)
+433. Rectangle: color=purple, top-left=(223, 790), bottom-right=(4449, 2548)
+434. Rectangle: color=red, top-left=(8054, 2937), bottom-right=(8455, 8527)
+435. Rectangle: color=purple, top-left=(6459, 3399), bottom-right=(7516, 8355)
+436. Triangle: color=red, points=(3901, 3615) - (1145, 7348) - (1766, 2434)
+437. Triangle: color=red, points=(7658, 1236) - (2874, 2539) - (6605, 4102)
+438. Triangle: color=red, points=(5076, 6044) - (8691, 7525) - (9000, 3846)
+439. Triangle: color=red, points=(8240, 2748) - (9436, 8273) - (8430, 8185)
+440. Triangle: color=red, points=(3412, 7553) - (216, 9496) - (4023, 5062)
+441. Triangle: color=red, points=(8705, 2594) - (6454, 4217) - (7384, 7965)
+442. Triangle: color=red, points=(7793, 4592) - (4592, 6111) - (8289, 1711)
+443. Rectangle: color=green, top-left=(6145, 3588), bottom-right=(7728, 8148)
+444. Circle: color=light blue, center=(7890, 3278), radius=1961
+445. Rectangle: color=green, top-left=(2758, 5718), bottom-right=(6494, 8167)
+446. Triangle: color=red, points=(3057, 2238) - (7817, 443) - (4796, 4117)
+447. Rectangle: color=green, top-left=(3420, 7734), bottom-right=(8321, 9036)
+448. Rectangle: color=red, top-left=(1569, 2733), bottom-right=(8023, 2494)
+449. Triangle: color=red, points=(3083, 5412) - (2867, 5932) - (8572, 7624)
+450. Rectangle: color=orange, top-left=(1335, 9951), bottom-right=(9504, 8007)
+451. Triangle: color=red, points=(7017, 3722) - (5236, 4157) - (864, 4799)
+452. Circle: color=orange, center=(5961, 8308), radius=1999
+453. Triangle: color=red, points=(7253, 7050) - (2208, 8778) - (1945, 6848)
+454. Circle: color=red, center=(1950, 2836), radius=2005
+455. Triangle: color=red, points=(9471, 4316) - (5267, 2105) - (6824, 6375)
+456. Triangle: color=red, points=(5437, 537) - (7810, 6201) - (6848, 1463)
+457. Rectangle: color=purple, top-left=(1967, 2949), bottom-right=(1641, 9628)
+458. Triangle: color=red, points=(2725, 3742) - (4769, 9163) - (2281, 3335)
+459. Triangle: color=red, points=(67, 4642) - (5019, 6905) - (3281, 8447)
+460. Circle: color=orange, center=(6070, 4267), radius=2029
+461. Circle: color=green, center=(7755, 4324), radius=2030
+462. Rectangle: color=red, top-left=(78, 8381), bottom-right=(9362, 5476)
+463. Triangle: color=red, points=(9203, 4544) - (3284, 6902) - (3611, 6587)
+464. Triangle: color=red, points=(508, 2994) - (171, 4766) - (5709, 4720)
+465. Triangle: color=red, points=(6909, 4503) - (4353, 5097) - (3106, 9147)
+466. Circle: color=red, center=(8019, 1846), radius=2048
+467. Triangle: color=red, points=(1764, 7082) - (6743, 9618) - (1281, 6304)
+468. Circle: color=red, center=(1904, 8018), radius=2055
+469. Triangle: color=red, points=(7272, 3364) - (9489, 105) - (8160, 6083)
+470. Rectangle: color=blue, top-left=(3266, 8717), bottom-right=(9421, 9073)
+471. Rectangle: color=purple, top-left=(4364, 7710), bottom-right=(9203, 9385)
+472. Triangle: color=red, points=(9108, 3612) - (6872, 9437) - (7522, 4456)
+473. Triangle: color=red, points=(7762, 2801) - (8115, 9229) - (8442, 3895)
+474. Triangle: color=red, points=(9633, 5250) - (7336, 5366) - (4193, 2134)
+475. Rectangle: color=blue, top-left=(6290, 2733), bottom-right=(8720, 6854)
+476. Rectangle: color=red, top-left=(542, 4558), bottom-right=(6705, 4957)
+477. Triangle: color=red, points=(5312, 5415) - (8480, 624) - (8293, 5024)
+478. Triangle: color=red, points=(2179, 4667) - (2219, 343) - (5563, 4692)
+479. Triangle: color=red, points=(7748, 4875) - (2750, 4838) - (2837, 7479)
+480. Rectangle: color=light blue, top-left=(8289, 2406), bottom-right=(8288, 9050)
+481. Triangle: color=red, points=(3408, 584) - (9442, 259) - (6478, 2434)
+482. Rectangle: color=green, top-left=(3300, 333), bottom-right=(9843, 466)
+483. Rectangle: color=orange, top-left=(3349, 1043), bottom-right=(5362, 5711)
+484. Circle: color=red, center=(114, 7504), radius=2127
+485. Triangle: color=red, points=(3430, 6823) - (4591, 235) - (3401, 5756)
+486. Triangle: color=red, points=(5480, 1831) - (2050, 6662) - (1671, 3264)
+487. Triangle: color=red, points=(3017, 5458) - (9620, 6010) - (8491, 5323)
+488. Triangle: color=red, points=(3223, 1035) - (4654, 892) - (9697, 2618)
+489. Triangle: color=red, points=(7908, 5507) - (4596, 7335) - (4009, 2571)
+490. Rectangle: color=purple, top-left=(7014, 2774), bottom-right=(7868, 8654)
+491. Rectangle: color=orange, top-left=(7274, 3821), bottom-right=(9342, 8493)
+492. Triangle: color=red, points=(7547, 5288) - (5308, 3148) - (2418, 921)
+493. Circle: color=red, center=(9984, 9856), radius=2146
+494. Rectangle: color=orange, top-left=(1528, 1949), bottom-right=(8251, 1994)
+495. Triangle: color=red, points=(2016, 4609) - (6683, 8420) - (7487, 8493)
+496. Triangle: color=red, points=(6855, 8404) - (5167, 7064) - (9817, 3584)
+497. Rectangle: color=green, top-left=(9048, 1768), bottom-right=(7994, 9632)
+498. Triangle: color=red, points=(4179, 675) - (290, 2933) - (2259, 5914)
+499. Triangle: color=red, points=(5528, 1677) - (2683, 1426) - (5636, 6553)
+500. Triangle: color=red, points=(3777, 4479) - (9853, 1738) - (6287, 4467)
+501. Circle: color=blue, center=(2279, 1631), radius=2183
+502. Triangle: color=red, points=(3520, 1641) - (2834, 3801) - (8395, 465)
+503. Rectangle: color=green, top-left=(602, 1631), bottom-right=(5665, 3473)
+504. Triangle: color=red, points=(5945, 4713) - (6209, 8086) - (2357, 2937)
+505. Triangle: color=red, points=(9711, 3019) - (9302, 3429) - (3203, 1137)
+506. Triangle: color=red, points=(5235, 5363) - (1750, 8489) - (6812, 9134)
+507. Triangle: color=red, points=(2974, 172) - (4916, 4983) - (587, 373)
+508. Rectangle: color=yellow, top-left=(2185, 7606), bottom-right=(7197, 9557)
+509. Triangle: color=red, points=(7803, 2502) - (2551, 5445) - (7987, 4946)
+510. Triangle: color=red, points=(8474, 888) - (8059, 4669) - (3800, 4486)
+511. Triangle: color=red, points=(2505, 7951) - (8265, 6235) - (4236, 9881)
+512. Triangle: color=red, points=(4830, 8948) - (2571, 5576) - (4757, 2617)
+513. Triangle: color=red, points=(80, 5095) - (4741, 9829) - (317, 7522)
+514. Triangle: color=red, points=(2257, 4345) - (8025, 4007) - (1759, 6007)
+515. Triangle: color=red, points=(3129, 2698) - (7682, 1051) - (987, 3258)
+516. Triangle: color=red, points=(9444, 1583) - (4394, 6216) - (7896, 1694)
+517. Circle: color=orange, center=(1496, 7904), radius=2248
+518. Triangle: color=red, points=(4360, 3799) - (8838, 8229) - (3468, 5260)
+519. Triangle: color=red, points=(3288, 6110) - (9912, 7642) - (6576, 8302)
+520. Triangle: color=red, points=(3035, 3499) - (8901, 2934) - (9861, 2036)
+521. Triangle: color=red, points=(9784, 5939) - (9710, 8479) - (9124, 1416)
+522. Circle: color=green, center=(9423, 8239), radius=2271
+523. Triangle: color=red, points=(3919, 4722) - (4721, 3011) - (9170, 7644)
+524. Triangle: color=red, points=(9631, 5203) - (7053, 420) - (4626, 2751)
+525. Triangle: color=red, points=(5478, 4605) - (9214, 1172) - (5877, 7095)
+526. Rectangle: color=orange, top-left=(1043, 8071), bottom-right=(9623, 6688)
+527. Circle: color=light blue, center=(2587, 1411), radius=2292
+528. Rectangle: color=light blue, top-left=(5050, 2375), bottom-right=(9800, 4836)
+529. Triangle: color=red, points=(9487, 7356) - (5895, 2590) - (5731, 1282)
+530. Triangle: color=red, points=(9773, 2499) - (8610, 1933) - (2658, 2990)
+531. Triangle: color=red, points=(7563, 2466) - (989, 5051) - (1970, 3648)
+532. Triangle: color=red, points=(1841, 457) - (3945, 7392) - (2574, 1513)
+533. Triangle: color=red, points=(8159, 9934) - (9603, 2795) - (8272, 7854)
+534. Triangle: color=red, points=(8810, 9501) - (6097, 7974) - (1758, 8554)
+535. Rectangle: color=orange, top-left=(802, 59), bottom-right=(240, 7926)
+536. Triangle: color=red, points=(2020, 6663) - (5025, 148) - (2201, 3756)
+537. Rectangle: color=blue, top-left=(1742, 3702), bottom-right=(4726, 8079)
+538. Triangle: color=red, points=(1645, 6987) - (6028, 1748) - (1898, 7695)
+539. Triangle: color=red, points=(1928, 6484) - (4839, 88) - (2965, 743)
+540. Triangle: color=red, points=(4701, 7167) - (7918, 1700) - (7993, 562)
+541. Rectangle: color=orange, top-left=(1110, 4814), bottom-right=(7056, 6310)
+542. Triangle: color=red, points=(9466, 3246) - (4100, 5292) - (2365, 4358)
+543. Triangle: color=red, points=(9000, 1775) - (6807, 4152) - (2181, 2952)
+544. Triangle: color=red, points=(7300, 8128) - (4523, 9942) - (1938, 5086)
+545. Triangle: color=red, points=(9870, 7872) - (5992, 4713) - (7090, 1675)
+546. Triangle: color=red, points=(772, 2140) - (3003, 7304) - (1558, 9153)
+547. Triangle: color=red, points=(3824, 7521) - (8834, 6939) - (1996, 9524)
+548. Triangle: color=red, points=(7178, 6861) - (5183, 4962) - (3064, 609)
+549. Triangle: color=red, points=(4680, 1179) - (5405, 6848) - (8204, 1780)
+550. Triangle: color=red, points=(9548, 4132) - (3717, 8887) - (8326, 5704)
+551. Circle: color=light blue, center=(2432, 7909), radius=2410
+552. Triangle: color=red, points=(5898, 4825) - (9770, 2592) - (5721, 8420)
+553. Circle: color=orange, center=(6347, 3114), radius=2414
+554. Triangle: color=red, points=(6363, 3905) - (5547, 2720) - (395, 7301)
+555. Triangle: color=red, points=(9409, 4069) - (3320, 5769) - (4358, 8017)
+556. Circle: color=blue, center=(3965, 554), radius=2422
+557. Triangle: color=red, points=(747, 3368) - (4138, 4082) - (4975, 8846)
+558. Triangle: color=red, points=(12, 2112) - (3068, 6823) - (5587, 6491)
+559. Triangle: color=red, points=(347, 4342) - (6063, 5365) - (5097, 1532)
+560. Circle: color=orange, center=(1033, 8663), radius=2433
+561. Triangle: color=red, points=(4450, 3279) - (3693, 7528) - (2805, 125)
+562. Rectangle: color=purple, top-left=(996, 2786), bottom-right=(5993, 5479)
+563. Rectangle: color=green, top-left=(422, 3084), bottom-right=(3054, 8161)
+564. Triangle: color=red, points=(621, 8542) - (6269, 4070) - (5985, 3364)
+565. Triangle: color=red, points=(7669, 6934) - (5267, 5791) - (865, 3243)
+566. Circle: color=red, center=(3538, 6487), radius=2473
+567. Triangle: color=red, points=(1914, 7598) - (1031, 1089) - (4565, 4826)
+568. Triangle: color=red, points=(6393, 2734) - (1788, 7924) - (1700, 4237)
+569. Triangle: color=red, points=(3034, 7554) - (1421, 9410) - (7103, 4082)
+570. Circle: color=light blue, center=(7806, 207), radius=2485
+571. Rectangle: color=blue, top-left=(3163, 5914), bottom-right=(9270, 7615)
+572. Circle: color=orange, center=(8344, 4129), radius=2486
+573. Triangle: color=red, points=(8512, 2583) - (4039, 2145) - (699, 1974)
+574. Rectangle: color=green, top-left=(2067, 6267), bottom-right=(9882, 6295)
+575. Triangle: color=red, points=(2814, 5544) - (9155, 3282) - (6802, 7273)
+576. Triangle: color=red, points=(7567, 9620) - (719, 8771) - (8537, 9734)
+577. Triangle: color=red, points=(7517, 8605) - (3593, 4291) - (9227, 9807)
+578. Triangle: color=red, points=(7450, 4156) - (973, 1512) - (4147, 8)
+579. Circle: color=purple, center=(986, 8399), radius=2519
+580. Triangle: color=red, points=(4273, 805) - (4626, 6976) - (8033, 5361)
+581. Triangle: color=red, points=(2671, 1338) - (7287, 4607) - (9604, 5073)
+582. Triangle: color=red, points=(7714, 7568) - (5896, 6113) - (139, 5716)
+583. Circle: color=light blue, center=(9008, 6871), radius=2538
+584. Circle: color=green, center=(4405, 8793), radius=2548
+585. Triangle: color=red, points=(9505, 3729) - (3505, 4811) - (9941, 6873)
+586. Circle: color=light blue, center=(819, 9660), radius=2558
+587. Triangle: color=red, points=(3279, 1949) - (4494, 2726) - (7428, 8750)
+588. Triangle: color=red, points=(6059, 2647) - (2630, 7637) - (5691, 9253)
+589. Circle: color=orange, center=(771, 7228), radius=2574
+590. Triangle: color=red, points=(4576, 8546) - (3850, 4741) - (7533, 1655)
+591. Triangle: color=red, points=(311, 557) - (3320, 2214) - (5341, 6663)
+592. Circle: color=blue, center=(6937, 2994), radius=2599
+593. Circle: color=red, center=(2371, 2494), radius=2603
+594. Circle: color=green, center=(4364, 1084), radius=2610
+595. Triangle: color=red, points=(800, 5973) - (7710, 8127) - (4020, 4113)
+596. Triangle: color=red, points=(7665, 3547) - (4984, 7145) - (2355, 1494)
+597. Triangle: color=red, points=(3920, 1812) - (8447, 8681) - (6493, 5007)
+598. Triangle: color=red, points=(7261, 9716) - (9790, 6771) - (2970, 5900)
+599. Rectangle: color=red, top-left=(725, 5735), bottom-right=(8279, 6434)
+600. Triangle: color=red, points=(9835, 5780) - (2086, 4614) - (4523, 3232)
+601. Triangle: color=red, points=(9410, 3628) - (1851, 184) - (8720, 3318)
+602. Triangle: color=red, points=(4712, 3899) - (9952, 1404) - (9300, 6768)
+603. Circle: color=yellow, center=(7706, 6561), radius=2645
+604. Triangle: color=red, points=(3753, 2250) - (8035, 6940) - (2915, 7342)
+605. Triangle: color=red, points=(148, 340) - (5292, 6402) - (2162, 499)
+606. Triangle: color=red, points=(2890, 4862) - (2043, 3853) - (9046, 464)
+607. Triangle: color=red, points=(823, 3463) - (897, 4428) - (8051, 811)
+608. Triangle: color=red, points=(4772, 8572) - (3687, 7149) - (5246, 482)
+609. Triangle: color=red, points=(7119, 5135) - (5923, 938) - (1335, 5658)
+610. Triangle: color=red, points=(3703, 4549) - (1255, 845) - (8183, 1515)
+611. Rectangle: color=red, top-left=(4971, 542), bottom-right=(6005, 7926)
+612. Triangle: color=red, points=(6340, 6137) - (2512, 9115) - (5208, 1938)
+613. Triangle: color=red, points=(5953, 1257) - (6842, 4862) - (6766, 9625)
+614. Triangle: color=red, points=(4532, 9108) - (4776, 2618) - (3169, 1061)
+615. Triangle: color=red, points=(5151, 8064) - (4999, 1015) - (8517, 3808)
+616. Triangle: color=red, points=(5144, 5250) - (8248, 6678) - (170, 7450)
+617. Triangle: color=red, points=(5174, 5476) - (8925, 3159) - (2083, 8161)
+618. Rectangle: color=light blue, top-left=(313, 6241), bottom-right=(7173, 7870)
+619. Circle: color=purple, center=(5681, 7187), radius=2708
+620. Rectangle: color=light blue, top-left=(1986, 84), bottom-right=(5196, 5404)
+621. Triangle: color=red, points=(7855, 6835) - (4270, 584) - (9199, 2343)
+622. Triangle: color=red, points=(5422, 236) - (4842, 8782) - (5038, 5675)
+623. Triangle: color=red, points=(9360, 5385) - (5154, 169) - (3648, 4612)
+624. Triangle: color=red, points=(4104, 7021) - (7779, 8107) - (3280, 1614)
+625. Triangle: color=red, points=(1308, 1053) - (6308, 6541) - (4431, 7857)
+626. Triangle: color=red, points=(8577, 7909) - (7817, 233) - (5549, 5232)
+627. Circle: color=orange, center=(9848, 9958), radius=2751
+628. Triangle: color=red, points=(6770, 3230) - (7354, 1023) - (5897, 9581)
+629. Triangle: color=red, points=(7302, 813) - (8244, 5817) - (7109, 9372)
+630. Triangle: color=red, points=(2114, 9742) - (2680, 2760) - (5606, 3162)
+631. Triangle: color=red, points=(4740, 5438) - (55, 8894) - (5149, 2218)
+632. Triangle: color=red, points=(5882, 1966) - (2584, 9517) - (5612, 7664)
+633. Triangle: color=red, points=(5158, 9834) - (1965, 8782) - (198, 3198)
+634. Triangle: color=red, points=(4666, 8157) - (9463, 1070) - (8268, 1314)
+635. Triangle: color=red, points=(5868, 9444) - (6164, 1866) - (3053, 7823)
+636. Triangle: color=red, points=(9007, 2417) - (3506, 8994) - (4365, 5953)
+637. Triangle: color=red, points=(2651, 4538) - (9747, 9224) - (2800, 5947)
+638. Triangle: color=red, points=(9615, 7323) - (3314, 2319) - (5407, 7268)
+639. Triangle: color=red, points=(6192, 2515) - (9192, 3324) - (3111, 8374)
+640. Rectangle: color=light blue, top-left=(1111, 1419), bottom-right=(2366, 8991)
+641. Triangle: color=red, points=(3275, 9291) - (2355, 5530) - (9083, 5211)
+642. Triangle: color=red, points=(5389, 157) - (1443, 7262) - (3390, 7518)
+643. Triangle: color=red, points=(8162, 2357) - (3894, 4982) - (1684, 8292)
+644. Triangle: color=red, points=(8793, 4007) - (2969, 1726) - (9824, 6835)
+645. Rectangle: color=light blue, top-left=(2704, 5550), bottom-right=(7978, 9188)
+646. Triangle: color=red, points=(4491, 7107) - (1440, 2816) - (6470, 389)
+647. Triangle: color=red, points=(5387, 3924) - (764, 3199) - (8565, 7071)
+648. Triangle: color=red, points=(7458, 569) - (2788, 2939) - (407, 5923)
+649. Triangle: color=red, points=(2814, 4061) - (9305, 484) - (1773, 5262)
+650. Triangle: color=red, points=(1876, 1322) - (5241, 8944) - (1933, 7180)
+651. Triangle: color=red, points=(4689, 2646) - (2742, 8784) - (3458, 88)
+652. Triangle: color=red, points=(5675, 3967) - (2758, 9648) - (8741, 3551)
+653. Triangle: color=red, points=(320, 6823) - (1099, 4873) - (8625, 5955)
+654. Triangle: color=red, points=(92, 6301) - (3904, 8430) - (8219, 5028)
+655. Triangle: color=red, points=(3539, 134) - (7435, 4669) - (9447, 6999)
+656. Triangle: color=red, points=(1272, 6953) - (7843, 3761) - (9425, 5807)
+657. Triangle: color=red, points=(4953, 165) - (8965, 5527) - (2061, 505)
+658. Triangle: color=red, points=(4518, 4544) - (7847, 1754) - (899, 7619)
+659. Triangle: color=red, points=(8475, 5300) - (5688, 7225) - (2862, 389)
+660. Rectangle: color=yellow, top-left=(3708, 4827), bottom-right=(8800, 8859)
+661. Triangle: color=red, points=(9822, 4878) - (6156, 2628) - (4828, 9593)
+662. Triangle: color=red, points=(9557, 1821) - (5130, 1504) - (6025, 8108)
+663. Triangle: color=red, points=(9966, 3947) - (2583, 2116) - (9029, 54)
+664. Triangle: color=red, points=(254, 433) - (2634, 3136) - (1542, 9079)
+665. Triangle: color=red, points=(4951, 3578) - (746, 1001) - (5005, 8453)
+666. Circle: color=purple, center=(1924, 6220), radius=2934
+667. Triangle: color=red, points=(3681, 2361) - (466, 1076) - (7644, 6694)
+668. Triangle: color=red, points=(9199, 2611) - (1188, 6087) - (7211, 1607)
+669. Triangle: color=red, points=(1225, 138) - (5074, 8202) - (5574, 5618)
+670. Circle: color=green, center=(67, 734), radius=2961
+671. Triangle: color=red, points=(1069, 3927) - (9983, 2363) - (1163, 4427)
+672. Triangle: color=red, points=(9228, 1179) - (4414, 7054) - (4810, 512)
+673. Triangle: color=red, points=(2974, 8477) - (5610, 7) - (1896, 7666)
+674. Triangle: color=red, points=(7454, 4707) - (7032, 8275) - (553, 9698)
+675. Triangle: color=red, points=(1818, 8462) - (6587, 3644) - (7836, 1321)
+676. Circle: color=purple, center=(6430, 3867), radius=2996
+677. Circle: color=light blue, center=(7280, 5165), radius=3005
+678. Triangle: color=red, points=(232, 7939) - (4755, 2099) - (6951, 6135)
+679. Triangle: color=red, points=(269, 6322) - (8968, 3970) - (8196, 5806)
+680. Circle: color=red, center=(6486, 6322), radius=3017
+681. Triangle: color=red, points=(5998, 926) - (4603, 7067) - (223, 1800)
+682. Triangle: color=red, points=(5821, 212) - (4024, 6994) - (970, 558)
+683. Triangle: color=red, points=(1139, 3772) - (3445, 5283) - (8947, 9205)
+684. Triangle: color=red, points=(1264, 7759) - (4039, 390) - (3750, 8847)
+685. Triangle: color=red, points=(6841, 6108) - (8623, 7419) - (1661, 914)
+686. Triangle: color=red, points=(8203, 294) - (8754, 9778) - (7850, 4987)
+687. Circle: color=orange, center=(9576, 219), radius=3038
+688. Triangle: color=red, points=(590, 5344) - (4169, 9760) - (8622, 9411)
+689. Triangle: color=red, points=(741, 7813) - (5362, 5896) - (9909, 5134)
+690. Triangle: color=red, points=(608, 445) - (9059, 2024) - (695, 2644)
+691. Rectangle: color=purple, top-left=(9186, 246), bottom-right=(9295, 9754)
+692. Triangle: color=red, points=(4516, 4622) - (9620, 1126) - (8713, 8448)
+693. Triangle: color=red, points=(2848, 7061) - (7964, 4510) - (9496, 563)
+694. Triangle: color=red, points=(6096, 4210) - (1053, 9848) - (1508, 2940)
+695. Triangle: color=red, points=(3586, 3694) - (6724, 9987) - (627, 3096)
+696. Triangle: color=red, points=(3779, 4806) - (9009, 7176) - (2264, 826)
+697. Triangle: color=red, points=(8983, 4118) - (845, 644) - (7185, 5656)
+698. Rectangle: color=orange, top-left=(238, 6660), bottom-right=(9875, 6676)
+699. Triangle: color=red, points=(623, 3685) - (766, 832) - (8265, 5299)
+700. Circle: color=green, center=(8537, 4167), radius=3091
+701. Triangle: color=red, points=(5751, 4354) - (9052, 1204) - (4077, 9406)
+702. Triangle: color=red, points=(9444, 352) - (4800, 4300) - (1552, 6060)
+703. Rectangle: color=light blue, top-left=(3749, 1356), bottom-right=(5901, 8983)
+704. Circle: color=yellow, center=(9858, 5673), radius=3119
+705. Triangle: color=red, points=(910, 9123) - (4747, 3846) - (1325, 677)
+706. Circle: color=light blue, center=(9117, 7234), radius=3133
+707. Triangle: color=red, points=(9711, 696) - (6653, 9297) - (8413, 263)
+708. Triangle: color=red, points=(839, 9530) - (4918, 3108) - (6216, 9707)
+709. Triangle: color=red, points=(4191, 7700) - (4553, 805) - (9125, 986)
+710. Triangle: color=red, points=(9474, 5683) - (398, 2347) - (7838, 6282)
+711. Triangle: color=red, points=(734, 7886) - (7119, 5453) - (3616, 1052)
+712. Triangle: color=red, points=(2601, 3379) - (8244, 8376) - (1829, 9242)
+713. Circle: color=red, center=(4779, 6787), radius=3175
+714. Circle: color=green, center=(170, 3915), radius=3176
+715. Triangle: color=red, points=(846, 2624) - (6316, 9843) - (7671, 8715)
+716. Triangle: color=red, points=(603, 2665) - (1881, 459) - (4669, 9572)
+717. Triangle: color=red, points=(218, 1513) - (4630, 5774) - (6533, 9261)
+718. Triangle: color=red, points=(5774, 9909) - (8526, 3140) - (3178, 2921)
+719. Circle: color=red, center=(5961, 538), radius=3203
+720. Rectangle: color=blue, top-left=(1555, 2777), bottom-right=(7370, 7056)
+721. Rectangle: color=blue, top-left=(3348, 2048), bottom-right=(7962, 7535)
+722. Triangle: color=red, points=(1251, 9768) - (415, 5454) - (7218, 3421)
+723. Circle: color=yellow, center=(6914, 92), radius=3216
+724. Triangle: color=red, points=(4710, 7013) - (3589, 509) - (9089, 7831)
+725. Triangle: color=red, points=(5414, 2450) - (1154, 2313) - (1471, 9918)
+726. Triangle: color=red, points=(7270, 406) - (981, 6964) - (7423, 4901)
+727. Triangle: color=red, points=(7967, 7890) - (8797, 4724) - (29, 7365)
+728. Rectangle: color=light blue, top-left=(4623, 686), bottom-right=(8778, 6731)
+729. Triangle: color=red, points=(9525, 846) - (4124, 3836) - (6498, 8945)
+730. Triangle: color=red, points=(4158, 6876) - (8445, 2074) - (1482, 9596)
+731. Circle: color=green, center=(3452, 8886), radius=3269
+732. Circle: color=light blue, center=(4109, 984), radius=3271
+733. Triangle: color=red, points=(9025, 7817) - (6352, 2469) - (1636, 7970)
+734. Circle: color=light blue, center=(8414, 9713), radius=3284
+735. Triangle: color=red, points=(9797, 4691) - (4118, 6109) - (2055, 499)
+736. Circle: color=blue, center=(4790, 355), radius=3295
+737. Circle: color=orange, center=(80, 3968), radius=3305
+738. Circle: color=yellow, center=(285, 5023), radius=3312
+739. Triangle: color=red, points=(2417, 1706) - (9604, 7504) - (1364, 4203)
+740. Circle: color=green, center=(6705, 4408), radius=3314
+741. Triangle: color=red, points=(2328, 3322) - (9448, 8460) - (2728, 1201)
+742. Rectangle: color=red, top-left=(2071, 1491), bottom-right=(5718, 8356)
+743. Circle: color=green, center=(358, 4104), radius=3347
+744. Circle: color=purple, center=(3479, 7103), radius=3347
+745. Triangle: color=red, points=(1932, 8694) - (6831, 63) - (7890, 1809)
+746. Rectangle: color=green, top-left=(688, 3499), bottom-right=(7083, 7643)
+747. Circle: color=green, center=(4525, 7995), radius=3362
+748. Triangle: color=red, points=(8015, 869) - (7345, 9634) - (3951, 8702)
+749. Triangle: color=red, points=(5338, 1193) - (8678, 3271) - (2781, 9482)
+750. Circle: color=red, center=(6166, 2681), radius=3371
+751. Rectangle: color=purple, top-left=(1042, 5922), bottom-right=(8601, 8955)
+752. Triangle: color=red, points=(9020, 8194) - (4390, 5663) - (446, 1935)
+753. Circle: color=orange, center=(5014, 9120), radius=3406
+754. Triangle: color=red, points=(4141, 1512) - (8638, 9373) - (1631, 4047)
+755. Triangle: color=red, points=(2843, 1053) - (7559, 6069) - (599, 8059)
+756. Triangle: color=red, points=(7036, 2183) - (493, 2085) - (278, 8112)
+757. Triangle: color=red, points=(9936, 9924) - (4964, 3412) - (7257, 546)
+758. Triangle: color=red, points=(9756, 3172) - (8332, 8949) - (1765, 6678)
+759. Circle: color=red, center=(9860, 9010), radius=3466
+760. Rectangle: color=light blue, top-left=(6779, 238), bottom-right=(8533, 9422)
+761. Triangle: color=red, points=(260, 7807) - (7176, 1470) - (5344, 8602)
+762. Triangle: color=red, points=(6189, 7943) - (2479, 8372) - (202, 220)
+763. Circle: color=purple, center=(1079, 4250), radius=3499
+764. Triangle: color=red, points=(5309, 346) - (2972, 8591) - (9334, 2321)
+765. Triangle: color=red, points=(7640, 2620) - (6729, 9202) - (308, 7096)
+766. Triangle: color=red, points=(9038, 89) - (8836, 896) - (2885, 9245)
+767. Rectangle: color=yellow, top-left=(3344, 1475), bottom-right=(9057, 6860)
+768. Circle: color=green, center=(7776, 7153), radius=3536
+769. Circle: color=green, center=(1611, 9394), radius=3539
+770. Triangle: color=red, points=(8206, 2120) - (8951, 2375) - (1075, 9969)
+771. Triangle: color=red, points=(8959, 3106) - (4548, 9581) - (261, 7318)
+772. Circle: color=blue, center=(3865, 3378), radius=3559
+773. Triangle: color=red, points=(6927, 9127) - (135, 239) - (3071, 4664)
+774. Triangle: color=red, points=(1149, 7622) - (3137, 9429) - (8119, 725)
+775. Triangle: color=red, points=(9669, 3224) - (7196, 3057) - (768, 9626)
+776. Circle: color=light blue, center=(2474, 8071), radius=3609
+777. Rectangle: color=green, top-left=(4782, 1362), bottom-right=(7697, 9800)
+778. Circle: color=yellow, center=(8085, 2510), radius=3614
+779. Triangle: color=red, points=(2331, 5330) - (8754, 430) - (3070, 9337)
+780. Triangle: color=red, points=(554, 7633) - (944, 2973) - (9494, 5238)
+781. Circle: color=purple, center=(3584, 3947), radius=3633
+782. Triangle: color=red, points=(1846, 8365) - (7226, 9778) - (5496, 905)
+783. Triangle: color=red, points=(7413, 9012) - (4542, 330) - (1372, 7107)
+784. Triangle: color=red, points=(91, 8429) - (7665, 1216) - (451, 9730)
+785. Circle: color=red, center=(1479, 3670), radius=3682
+786. Circle: color=orange, center=(2419, 5050), radius=3684
+787. Triangle: color=red, points=(9360, 602) - (7692, 9425) - (3118, 4033)
+788. Circle: color=yellow, center=(3425, 874), radius=3694
+789. Circle: color=blue, center=(7513, 5138), radius=3714
+790. Circle: color=blue, center=(69, 186), radius=3720
+791. Triangle: color=red, points=(8585, 9983) - (7004, 6508) - (627, 1600)
+792. Triangle: color=red, points=(2407, 9509) - (8279, 178) - (4824, 9765)
+793. Circle: color=yellow, center=(5901, 6738), radius=3771
+794. Triangle: color=red, points=(1073, 3301) - (8854, 9958) - (102, 1975)
+795. Circle: color=yellow, center=(8374, 5784), radius=3787
+796. Circle: color=orange, center=(3002, 6860), radius=3792
+797. Triangle: color=red, points=(2782, 7110) - (516, 340) - (9307, 4116)
+798. Triangle: color=red, points=(1442, 1640) - (9906, 3620) - (1596, 7686)
+799. Triangle: color=red, points=(2526, 422) - (7995, 9526) - (6231, 8)
+800. Rectangle: color=blue, top-left=(1906, 599), bottom-right=(8392, 6138)
+801. Circle: color=yellow, center=(1927, 523), radius=3845
+802. Circle: color=yellow, center=(8805, 2708), radius=3853
+803. Triangle: color=red, points=(9794, 7863) - (3192, 667) - (1144, 6143)
+804. Circle: color=light blue, center=(4262, 7565), radius=3908
+805. Triangle: color=red, points=(513, 4680) - (9913, 7219) - (2148, 258)
+806. Circle: color=red, center=(3267, 3428), radius=3962
+807. Rectangle: color=yellow, top-left=(380, 6112), bottom-right=(9261, 9719)
+808. Circle: color=red, center=(8818, 9457), radius=3977
+809. Circle: color=purple, center=(5697, 5492), radius=3981
+810. Triangle: color=red, points=(9970, 9203) - (4227, 7978) - (2322, 557)
+811. Circle: color=yellow, center=(268, 5466), radius=4023
+812. Triangle: color=red, points=(9924, 949) - (700, 5757) - (815, 10)
+813. Triangle: color=red, points=(9378, 198) - (3518, 8724) - (302, 6929)
+814. Rectangle: color=red, top-left=(4168, 942), bottom-right=(8385, 9503)
+815. Triangle: color=red, points=(5963, 1791) - (9947, 9956) - (1332, 8129)
+816. Circle: color=purple, center=(4492, 8404), radius=4158
+817. Circle: color=orange, center=(4547, 6784), radius=4176
+818. Circle: color=green, center=(5991, 8957), radius=4238
+819. Circle: color=yellow, center=(8893, 9537), radius=4279
+820. Triangle: color=red, points=(8709, 145) - (1450, 35) - (3704, 9152)
+821. Rectangle: color=blue, top-left=(4928, 495), bottom-right=(9012, 9939)
+822. Circle: color=light blue, center=(6218, 1418), radius=4331
+823. Triangle: color=red, points=(554, 100) - (6014, 9525) - (9229, 3119)
+824. Rectangle: color=light blue, top-left=(922, 3088), bottom-right=(9628, 8340)
+825. Circle: color=purple, center=(8818, 2146), radius=4535
+826. Circle: color=blue, center=(2189, 5455), radius=4578
+827. Circle: color=yellow, center=(5047, 6965), radius=4592
+828. Circle: color=green, center=(9487, 5015), radius=4595
+829. Circle: color=blue, center=(8710, 7458), radius=4629
+830. Circle: color=light blue, center=(534, 1129), radius=4638
+831. Circle: color=light blue, center=(688, 3503), radius=4689
+832. Circle: color=green, center=(7030, 6312), radius=4701
+833. Triangle: color=red, points=(9833, 5917) - (1317, 9762) - (797, 113)
+834. Circle: color=blue, center=(2001, 6645), radius=4736
+835. Circle: color=orange, center=(312, 7973), radius=4746
+836. Circle: color=orange, center=(8715, 1176), radius=4773
+837. Circle: color=red, center=(809, 8517), radius=4842
+838. Circle: color=blue, center=(7352, 7904), radius=4931
+839. Circle: color=green, center=(2384, 5212), radius=4964
+840. Circle: color=purple, center=(8767, 2987), radius=4964
+841. Circle: color=yellow, center=(5025, 8654), radius=4975
+842. Circle: color=blue, center=(1025, 8496), radius=5021
+843. Rectangle: color=blue, top-left=(205, 1265), bottom-right=(8356, 8894)
+844. Circle: color=light blue, center=(4836, 6467), radius=5093
+845. Circle: color=yellow, center=(4546, 4003), radius=5100
+846. Circle: color=light blue, center=(7116, 3808), radius=5106
+847. Circle: color=yellow, center=(2388, 1505), radius=5170
+848. Circle: color=purple, center=(2714, 6739), radius=5282
+849. Circle: color=yellow, center=(2002, 1025), radius=5293
+850. Circle: color=blue, center=(9893, 7024), radius=5324
+851. Circle: color=orange, center=(7943, 4205), radius=5349
+852. Circle: color=green, center=(9946, 6668), radius=5352
+853. Circle: color=purple, center=(6982, 3182), radius=5372
+854. Circle: color=orange, center=(8408, 7189), radius=5426
+855. Circle: color=green, center=(780, 287), radius=5438
+856. Circle: color=yellow, center=(1851, 3079), radius=5479
+857. Circle: color=orange, center=(4477, 2362), radius=5503
+858. Circle: color=orange, center=(9627, 4188), radius=5538
+859. Circle: color=green, center=(6724, 1593), radius=5577
+860. Circle: color=purple, center=(1600, 5917), radius=5592
+861. Circle: color=purple, center=(570, 3615), radius=5593
+862. Circle: color=yellow, center=(7723, 2191), radius=5615
+863. Circle: color=purple, center=(9369, 7212), radius=5660
+864. Circle: color=purple, center=(6357, 1944), radius=5683
+865. Circle: color=light blue, center=(9961, 947), radius=5694
+866. Circle: color=light blue, center=(6545, 3473), radius=5741
+867. Circle: color=red, center=(39, 5138), radius=5751
+868. Circle: color=green, center=(1279, 5692), radius=5753
+869. Circle: color=red, center=(3394, 6339), radius=5784
+870. Circle: color=yellow, center=(9783, 2907), radius=5787
+871. Circle: color=yellow, center=(6648, 8531), radius=5801
+872. Circle: color=red, center=(1627, 9519), radius=5810
+873. Circle: color=green, center=(7215, 1265), radius=5844
+874. Circle: color=yellow, center=(8363, 2978), radius=5859
+875. Circle: color=green, center=(2126, 9156), radius=5868
+876. Circle: color=red, center=(362, 9405), radius=5888
+877. Circle: color=orange, center=(2881, 2816), radius=5898
+878. Circle: color=green, center=(5035, 7725), radius=5979
+879. Circle: color=green, center=(6723, 9394), radius=6011
+880. Circle: color=blue, center=(6397, 8372), radius=6083
+881. Circle: color=blue, center=(2102, 7117), radius=6197
+882. Circle: color=orange, center=(9153, 3579), radius=6246
+883. Circle: color=orange, center=(6780, 4453), radius=6255
+884. Circle: color=light blue, center=(1544, 8225), radius=6332
+885. Circle: color=blue, center=(4856, 2671), radius=6384
+886. Circle: color=yellow, center=(8760, 4229), radius=6498
+887. Circle: color=red, center=(157, 7286), radius=6548
+888. Circle: color=light blue, center=(2894, 7509), radius=6661
+889. Circle: color=red, center=(8923, 6050), radius=6665
+890. Circle: color=light blue, center=(5538, 9574), radius=6719
+891. Circle: color=green, center=(9730, 4638), radius=6831
+892. Circle: color=blue, center=(4025, 7098), radius=6854
+893. Circle: color=blue, center=(8514, 3053), radius=6921
+894. Circle: color=red, center=(7937, 2107), radius=6930
+895. Circle: color=green, center=(9130, 3257), radius=6936
+896. Circle: color=purple, center=(6471, 681), radius=6967
+897. Circle: color=yellow, center=(9110, 8928), radius=6969
+898. Circle: color=green, center=(1349, 696), radius=6974
+899. Circle: color=green, center=(8916, 1902), radius=7012
+900. Circle: color=blue, center=(489, 4493), radius=7055
+901. Circle: color=orange, center=(9836, 4178), radius=7058
+902. Circle: color=light blue, center=(4919, 3443), radius=7067
+903. Circle: color=blue, center=(3441, 3001), radius=7079
+904. Circle: color=blue, center=(1768, 9937), radius=7093
+905. Circle: color=yellow, center=(6862, 5850), radius=7191
+906. Circle: color=green, center=(609, 7447), radius=7225
+907. Circle: color=orange, center=(9918, 7967), radius=7267
+908. Circle: color=purple, center=(3178, 6358), radius=7290
+909. Circle: color=blue, center=(3680, 9452), radius=7336
+910. Circle: color=light blue, center=(6248, 315), radius=7336
+911. Circle: color=purple, center=(3038, 5007), radius=7376
+912. Circle: color=orange, center=(2228, 7671), radius=7377
+913. Circle: color=purple, center=(8092, 1569), radius=7388
+914. Circle: color=light blue, center=(9780, 1196), radius=7388
+915. Circle: color=orange, center=(4111, 4947), radius=7425
+916. Circle: color=green, center=(3911, 6280), radius=7443
+917. Circle: color=blue, center=(4902, 3136), radius=7446
+918. Circle: color=red, center=(7455, 3329), radius=7459
+919. Circle: color=green, center=(7433, 6768), radius=7465
+920. Circle: color=green, center=(6628, 5610), radius=7483
+921. Circle: color=yellow, center=(4591, 6545), radius=7507
+922. Circle: color=green, center=(3716, 6868), radius=7526
+923. Circle: color=blue, center=(9682, 9909), radius=7575
+924. Circle: color=yellow, center=(9615, 7797), radius=7576
+925. Circle: color=orange, center=(4434, 4321), radius=7582
+926. Circle: color=orange, center=(8967, 7435), radius=7638
+927. Circle: color=green, center=(6528, 8340), radius=7679
+928. Circle: color=purple, center=(823, 9100), radius=7730
+929. Circle: color=green, center=(8824, 2022), radius=7746
+930. Circle: color=blue, center=(702, 8544), radius=7782
+931. Circle: color=red, center=(2062, 6414), radius=7793
+932. Circle: color=yellow, center=(9416, 7072), radius=7805
+933. Circle: color=purple, center=(3805, 6238), radius=7850
+934. Circle: color=red, center=(9198, 3152), radius=7855
+935. Circle: color=purple, center=(1720, 8636), radius=7855
+936. Circle: color=light blue, center=(4858, 6120), radius=7865
+937. Circle: color=orange, center=(6968, 9438), radius=7890
+938. Circle: color=green, center=(4208, 1826), radius=7926
+939. Circle: color=light blue, center=(8502, 4762), radius=7926
+940. Circle: color=orange, center=(5214, 2325), radius=7943
+941. Circle: color=red, center=(7782, 9308), radius=7966
+942. Circle: color=green, center=(5271, 6229), radius=7967
+943. Circle: color=purple, center=(9005, 7843), radius=8000
+944. Circle: color=purple, center=(1961, 4911), radius=8008
+945. Circle: color=purple, center=(5216, 1480), radius=8026
+946. Circle: color=red, center=(8316, 2200), radius=8035
+947. Circle: color=red, center=(4591, 9979), radius=8120
+948. Circle: color=purple, center=(209, 9855), radius=8130
+949. Circle: color=yellow, center=(9454, 7697), radius=8165
+950. Circle: color=blue, center=(9358, 3584), radius=8186
+951. Circle: color=blue, center=(6168, 8146), radius=8216
+952. Circle: color=green, center=(4274, 7003), radius=8220
+953. Circle: color=green, center=(6178, 1668), radius=8382
+954. Circle: color=red, center=(4103, 7400), radius=8400
+955. Circle: color=green, center=(1037, 6229), radius=8429
+956. Circle: color=red, center=(8076, 4916), radius=8499
+957. Circle: color=orange, center=(8696, 2047), radius=8502
+958. Circle: color=light blue, center=(2533, 8953), radius=8548
+959. Circle: color=blue, center=(4955, 6061), radius=8617
+960. Circle: color=purple, center=(7344, 7372), radius=8621
+961. Circle: color=yellow, center=(8844, 944), radius=8711
+962. Circle: color=purple, center=(8596, 7739), radius=8740
+963. Circle: color=blue, center=(5129, 5774), radius=8780
+964. Circle: color=light blue, center=(230, 6848), radius=8803
+965. Circle: color=red, center=(2206, 8840), radius=8871
+966. Circle: color=green, center=(7369, 2913), radius=8892
+967. Circle: color=green, center=(9023, 6782), radius=8927
+968. Circle: color=purple, center=(1154, 78), radius=8975
+969. Circle: color=orange, center=(3447, 4060), radius=8988
+970. Circle: color=orange, center=(1299, 1275), radius=9015
+971. Circle: color=red, center=(7855, 878), radius=9016
+972. Circle: color=light blue, center=(5214, 6785), radius=9033
+973. Circle: color=purple, center=(7086, 9573), radius=9058
+974. Circle: color=green, center=(7219, 5100), radius=9088
+975. Circle: color=purple, center=(6623, 4764), radius=9105
+976. Circle: color=blue, center=(8070, 5725), radius=9162
+977. Circle: color=light blue, center=(3407, 5954), radius=9198
+978. Circle: color=light blue, center=(4150, 5090), radius=9201
+979. Circle: color=blue, center=(7504, 1822), radius=9220
+980. Circle: color=light blue, center=(53, 3022), radius=9308
+981. Circle: color=light blue, center=(6690, 3260), radius=9313
+982. Circle: color=purple, center=(536, 2868), radius=9313
+983. Circle: color=yellow, center=(195, 2150), radius=9315
+984. Circle: color=orange, center=(3778, 2477), radius=9347
+985. Circle: color=blue, center=(6687, 4861), radius=9347
+986. Circle: color=red, center=(5568, 752), radius=9359
+987. Circle: color=red, center=(5881, 7673), radius=9438
+988. Circle: color=orange, center=(7471, 9509), radius=9516
+989. Circle: color=orange, center=(4650, 5667), radius=9528
+990. Circle: color=red, center=(4602, 6462), radius=9590
+991. Circle: color=blue, center=(6325, 5711), radius=9605
+992. Circle: color=red, center=(2476, 3804), radius=9625
+993. Circle: color=blue, center=(8916, 2199), radius=9678
+994. Circle: color=yellow, center=(4615, 7610), radius=9797
+995. Circle: color=blue, center=(1367, 1264), radius=9808
+996. Circle: color=red, center=(7532, 1081), radius=9837
+997. Circle: color=orange, center=(2751, 8934), radius=9883
+998. Circle: color=orange, center=(998, 567), radius=9934
+999. Circle: color=light blue, center=(7523, 1138), radius=9951
+1000. Circle: color=yellow, center=(8441, 3248), radius=9970
